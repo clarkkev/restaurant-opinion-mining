@@ -1,0 +1,76 @@
+{
+    "length": {
+        "properties":10,
+        "types": 2
+    },
+    "lambda": {
+        "P":0.075,
+        "A":0.15,
+        "B":0.2,
+        "tau":0.1,
+        "psi":1.0,
+        "phi":1.0,
+        "eta":100.0
+    },
+    "hmm": {
+        "start": {
+            "B":3,
+            "P":2
+        },
+        "P": {
+            "P":2
+        },
+        "A": {
+            "A":2
+        },
+        "B": {
+            "P":1,
+            "A":1,
+            "end":1
+        },
+        "I": {
+            "I":1000
+        }
+    },
+    "prior": {
+        "P":1,
+        "A":1,
+        "B":4,
+        "I":5,
+        "attributes": [0.7,0.3],
+        "positive":0.6
+    },
+    "seed": {
+        "P":0.2,
+        "A":10.0,
+        "B":0.1,
+        "I":1.0,
+        "tau":100.0
+    },
+    "iters": {
+        "temp_step":200,
+        "temp_incr":0.0,
+        "max_iters":50,
+        "output_freq":25,
+        "processors":8
+    },
+    "run": {
+        "output":"execs/",
+        "phrases":"phrases",
+        "seed":"seed",
+        "tfidf":"tfidf"
+    },
+    "hacks": {
+        "truncate": {
+            "P":0,
+            "A":0,
+            "eta":3
+        },
+        "sep_props":true,
+        "spillover":0.0,
+        "stem":true,
+        "use_trans":true,
+        "learn_trans":true,
+        "pos": true
+    }
+}
