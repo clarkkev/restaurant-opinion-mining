@@ -1,0 +1,7239 @@
+(ROOT
+  (S
+    (NP (DT The) (JJ stuffed) (NN chile) (NNS peppers))
+    (VP (VBD were)
+      (ADJP (JJ suppose)
+        (S
+          (VP (TO to)
+            (VP (VB be)
+              (VP (VBN stuffed)
+                (PP (IN with)
+                  (NP (NN cheese)
+                    (CC and)
+                    (NN pork)))))))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS mussels))
+      (VP (VBN steamed)
+        (PP (IN in)
+          (NP (NN beer)))))
+    (VP (VBD were)
+      (ADJP (JJ satisfying)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN hamburger))
+      (VP (VBD was)
+        (ADJP
+          (ADJP (RB pretty) (JJ good))
+          (, ,)
+          (ADJP (NN nothing) (JJ unique)))
+        (PP (IN about)
+          (NP (PRP it)))))
+    (, ,)
+    (CC but)
+    (S
+      (S
+        (NP (PRP it))
+        (VP (VBD was)
+          (VP (VBN made)
+            (ADVP (RB perfectly)))))
+      (CC and)
+      (S
+        (NP (DT the) (NNS buns))
+        (VP (VBD resembled)
+          (NP
+            (NP (NN something))
+            (PP (IN of)
+              (NP (DT a) (JJ savory) (NN brioche)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN egg) (NNS rolls))
+    (VP (VBD was)
+      (ADJP (JJ plain)))))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (JJ non-vegetarian) (NN friend))
+    (VP
+      (VP (VBD ordered)
+        (NP (NNP Pad) (NNP Thai)))
+      (CC and)
+      (VP (VBD was)
+        (ADJP (RB really) (VBN disappointed))))
+    (. .)))
+
+(ROOT
+  (S (: -)
+    (NP (NNP Coleslaw))
+    (VP (VBD was)
+      (ADJP (RB pretty) (JJ bland)
+        (CC and)
+        (JJ tasted))
+      (PP (IN like)
+        (NP (JJ plain) (NN cabbage))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN salsa))
+    (VP (VBD was)
+      (ADJP (JJ incredible)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (JJ boring) (NN ravioli))
+    (VP (VBD were)
+      (VP (VBG sitting)
+        (PRT (RP on))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN meat))
+    (VP (VBD was)
+      (NP (NN tender)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN banana))
+    (VP (VBD reminded)
+      (NP (PRP me))
+      (PP
+        (ADVP (RB almost))
+        (IN of)
+        (NP (DT the) (JJ stuffed) (NN banana) (JJ french) (NN toast)))
+      (PP (IN at)
+        (NP (NNP Masa))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD had)
+      (NP
+        (NP (DT the) (NN watermelon)
+          (CC and)
+          (NN heirloom) (NN tomato) (NN gazpacho))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBD was)
+              (ADJP (JJ divine)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ original) (NN yogurt))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (JJ delicious))
+        (, ,) (RB not)
+        (ADJP (RB too) (JJ sweet))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN burger))
+    (VP (VBD was)
+      (ADJP (JJ tasty)))))
+
+(ROOT
+  (S
+    (NP (PRP$ Their) (JJ pistachio) (NN pesto) (NNS gnocchi))
+    (VP (VBZ is)
+      (ADVP (RB SO))
+      (ADJP (JJ good)))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBD enjoyed)
+        (NP (DT the) (NNP Aloo) (NNP Chole) (NNS potatoes)))
+      (CC and)
+      (VP (VBZ chickpeas)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Clam) (NNP bake))
+    (VP (VBD was)
+      (ADJP (RB pretty) (JJ descent))
+      (SBAR (IN except)
+        (S
+          (NP (DT the) (NNS clams))
+          (VP (VBD were)
+            (ADJP (RB really) (JJ dry))))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP$ His) (NN crab) (NN cake) (NN benedict))
+      (VP (VBD was)
+        (ADJP (JJ unbelievable))))
+    (: -)
+    (FRAG
+      (NP
+        (NP (CD two) (JJ big) (NNS crabcakes))
+        (PP (IN with)
+          (NP (JJ poached) (NNS eggs)))
+        (PP (IN on)
+          (NP (NN top))))
+      (. .))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN fish))
+    (VP (VBD was)
+      (ADJP (RB so) (JJ tender)
+        (CC and)
+        (JJ flavorful)))))
+
+(ROOT
+  (S
+    (NP (DT the)
+      (ADJP (JJ artichoke)
+        (CC and)
+        (JJ homemade))
+      (NN pasta) (NNS appetizers))
+    (VP (VBD were)
+      (ADJP (JJ great)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN paneer) (NN tikka))
+    (VP (VBD was)
+      (ADJP (RB very) (JJ bland)
+        (CC and)
+        (JJ heavy)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN risotto))
+      (CC and)
+      (NP (NNS potatoes)))
+    (VP (VBD were)
+      (ADVP (RB also))
+      (ADJP (JJ overcooked)
+        (CC and)
+        (JJ mushy)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT the) (NN bread))
+      (VP (VBD was)
+        (ADJP (JJ delicious))))
+    (CC and)
+    (S
+      (NP (DT the) (NNS octopus) (NN appetizer))
+      (VP (VBD was)
+        (VP (VBG AMAZING))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN tenderloin))
+      (CC and)
+      (NP (NNS mushrooms)))
+    (VP (VBD were)
+      (NP (NN tender)
+        (CC and)
+        (NN juicy)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS cookies)
+      (CC and)
+      (NN cream) (NN one))
+    (VP (VBD was)
+      (ADJP (RB really) (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ fried) (NN yucca))
+    (VP (VBZ is)
+      (ADJP (JJ dry)))))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ mashed) (NNS potatoes))
+    (VP (VBD were)
+      (NP (NN standard)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP Thai) (NNS dumplings))
+      (, ,)
+      (NP (NNP Spicy) (NNP Green) (NNP Beans))
+      (, ,)
+      (NP (NNP Yellow) (NNP Peach) (NNP Chicken))
+      (, ,)
+      (NP (NNP Chicken) (NNP Goqi))
+      (, ,)
+      (NP (NNP Potato) (NNP threads))
+      (, ,)
+      (CC and)
+      (NP (JJ homemade) (NNP Tofu) (NNS dishes)))
+    (VP (VBP are)
+      (ADVP (RB always))
+      (ADJP (JJ amazing)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN burger))
+    (VP (VBD was)
+      (ADJP (JJ delicious)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NN sausage))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (JJ flavorful))
+        (CC but)
+        (ADJP
+          (NP (DT a) (RB bit))
+          (JJ overcooked))
+        (CC and)
+        (ADJP (JJ hard))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN gumbo))
+      (SBAR
+        (WHNP (WDT that))
+        (S
+          (VP (VBD followed)))))
+    (VP (VBD was)
+      (ADJP (JJ smoky)
+        (CC and)
+        (JJ complex)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN home) (NNS fries))
+    (VP (VBD were)
+      (ADJP (JJ amazing) (RB too)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN shrimp) (NNS tacos))
+      (, ,)
+      (NP (NNS taquitos))
+      (, ,)
+      (CC and)
+      (NP (NN guac)))
+    (VP (VBD were)
+      (ADJP (RB very) (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN fish) (NNS cakes))
+    (VP (VBD were)
+      (ADJP (RB too) (JJ greasy)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN chickpea) (NNS fries))
+    (VP (VBD were)
+      (ADJP (JJ good)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Pho) (NNP Tai))
+    (VP (VBD was)
+      (ADJP (JJ sub-par)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN broth))
+    (VP (VBZ is)
+      (ADJP (RB especially) (JJ flavorful)
+        (CC and)
+        (JJ delicious)))))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ fried) (NN rice))
+    (VP (VBZ is)
+      (NP
+        (NP
+          (NP (DT the) (JJS best))
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (VBP 've)
+                (ADVP (RB ever))
+                (VP (VBN had))))))
+        (: :)
+        (NP
+          (NP (JJ fresh) (NNS veggies))
+          (CC and)
+          (NP (JJ little) (NN oil)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS servings))
+    (VP (VBP are)
+      (ADJP (JJ huge)))))
+
+(ROOT
+  (NP
+    (NP (DT The) (NNS chiles))
+    (VP (VBN rellenos)
+      (SBAR
+        (S
+          (VP (VBD were)
+            (ADJP (RB \*) (JJ perfect))))))
+    (X (SYM \*))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN chipotle)
+      (CC and)
+      (NN jalepeno) (NN au) (NN jus))
+    (VP
+      (ADVP (RB totally))
+      (VBZ makes)
+      (NP (DT the) (NN sub)))))
+
+(ROOT
+  (S
+    (NP (DT This))
+    (VP (VBD was)
+      (ADVP (RB seriously))
+      (NP
+        (NP (CD one))
+        (PP (IN of)
+          (NP
+            (NP (DT the) (JJS best) (NNS steaks))
+            (SBAR
+              (S
+                (NP (PRP I))
+                (VP (VBP 've)
+                  (ADVP (RB ever))
+                  (VP (VBN eaten)))))))))))
+
+(ROOT
+  (S
+    (NP (DT the) (NNS eggs))
+    (VP (VBD were)
+      (ADJP (JJ fluffy)
+        (CC and)
+        (JJ flavorful)))))
+
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (NP (DT no) (NNP New) (NNP York) (NNP Fried) (NNP Chicken)))))
+
+(ROOT
+  (S
+    (NP (DT the) (JJ fried) (NN chicken))
+    (VP (VBD was)
+      (ADJP (JJ eeeeh)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS chips)
+        (CC and)
+        (NNS salsas))
+      (CC and)
+      (NP (NN guac)))
+    (VP (VBD were) (RB all)
+      (ADJP (RB really) (JJ good)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN volume))
+      (PP (IN of)
+        (NP
+          (NP (NN cayenne))
+          (VP (VBN used)))))
+    (VP (VBZ is)
+      (ADJP (RB too) (JJ little)))))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ spinach) (NN falafel))
+    (VP (VBZ is)
+      (VP (VBG addicting)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Mini) (NNP Steamed) (NNP Pork) (NNP Buns))
+    (VP (VBD were)
+      (ADJP (RB equally) (JJ huge)
+        (CC and)
+        (JJ delicious)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN chicken) (NN portion))
+    (VP (VBD was) (RB not)
+      (ADJP (JJ bad)))))
+
+(ROOT
+  (S
+    (NP (DT the) (JJ couscous) (NNS Brochettes))
+    (VP (VBD looked)
+      (ADJP (JJ great)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS dishes))
+    (VP (VBD were)
+      (ADJP
+        (ADJP (JJ rich))
+        (, ,)
+        (ADJP (JJ flavorful))
+        (, ,)
+        (CC and)
+        (ADJP (RB well) (JJ balanced))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN crust))
+    (VP (VBD was)
+      (ADJP (JJ thin)
+        (CC and)
+        (JJ crunchy)))))
+
+(ROOT
+  (S
+    (NP (PRP$ their) (NN beef) (NNS dishes))
+    (VP (VBP are)
+      (ADVP (RB generally))
+      (ADJP (RB all) (JJ delicious)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN chicken))
+    (VP (VBD was) (RB n't)
+      (VP (VBD dried)
+        (PRT (RP out))))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD had)
+      (NP
+        (NP (DT a) (JJ Hefe) (NN beer))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBD was)
+              (NP
+                (NP (DT a) (NN bit))
+                (ADJP (RB too) (JJ honey) (NN tasting))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS servers))
+    (VP (VBP are) (RB all)
+      (ADJP (RB very) (JJ friendly)))))
+
+(ROOT
+  (S
+    (NP (JJ Steamed) (NN ginger) (NN salmon))
+    (VP (VBD was)
+      (ADJP (JJ moist)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NNS dips\/hummus))
+    (VP (VBP are)
+      (ADJP (RB amazingly) (JJ delicious)
+        (CC and)
+        (JJ unique)))))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (JJ sweet) (NN potato) (NN tempura) (NN roll))
+      (VP (VBD was)
+        (ADJP (RB perfectly) (JJ fried))))
+    (CC and)
+    (S
+      (S
+        (NP (DT the) (JJ spicy) (NN scallop) (NN roll))
+        (VP (VBD was)
+          (ADJP (JJ wonderful))))
+      (: --)
+      (S
+        (NP (JJ entire) (NNS scallops))
+        (PP (IN in)
+          (NP (DT the) (NN roll))))
+      (CC and)
+      (S
+        (NP (RB then))
+        (ADJP (RB thinly) (JJ sliced))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN gratin))
+    (VP (VBD had)
+      (NP
+        (NP (DT a) (JJ strange) (JJ fake) (NN butter) (NN taste))
+        (PP (TO to)
+          (NP (PRP it)))))))
+
+(ROOT
+  (S
+    (NP (PDT all) (DT the) (NNS varieties))
+    (VP (VBD made)
+      (NP (PRP$ my) (NN mouth) (NN water)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN meat))
+    (VP (VBD was)
+      (ADJP (JJ fine)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN biryani))
+      (PP (IN at)
+        (NP (NNP Mela))))
+    (VP (VBZ is)
+      (ADJP (JJ fresh)
+        (CC and)
+        (JJ flavorful)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN broth))
+    (VP (VBD was)
+      (ADVP (RB SO))
+      (ADJP (JJ tasty)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Onion) (NNP Graitnee))
+    (VP (VBZ is)
+      (ADJP (JJ amazing)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS tapas))
+    (VP (VBP are)
+      (ADJP (JJ wonderful)))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD ordered)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (NNP Pho) (NNP Tai))
+            (CC and)
+            (NP (DT the) (NN spring)))
+          (VP
+            (VP (VBZ rolls))
+            (, ,)
+            (CC and)
+            (VP (VBD was) (RB not)
+              (VP (VBN impressed)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NNS favorites))
+    (VP (VBD were)
+      (NP
+        (NP (DT the) (NNP Fried) (NNP Artichoke) (NNP Hearts))
+        (, ,)
+        (NP (NNP Mushroom) (NNP Risotto))
+        (CC and)
+        (NP (NNP Sizzling) (NNP Garlic) (NNP Shrimp))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Douzo) (POS 's))
+      (NN miso) (NN soup))
+    (VP (VBZ is)
+      (NP
+        (NP (CD one))
+        (PP (IN of)
+          (NP (PRP$ my) (NNS favorites)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN shrimp) (NN dish))
+    (VP (VBD tasted)
+      (ADJP (RB too) (JJ good))
+      (PP (TO to)
+        (NP (NNS makes) (NN sense))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ nice) (JJ fluffy) (NN coating))
+      (CC and)
+      (NP (RB even) (DT the) (NN cornbread)))
+    (VP
+      (VP (VBD was)
+        (ADJP (JJ awesome)))
+      (, ,)
+      (VP
+        (ADVP (RB nicely))
+        (VBD buttered))
+      (CC and)
+      (VP (VBD was)
+        (VP (VBN made)
+          (ADVP (RB almost))
+          (PP (TO to)
+            (NP (NN perfection))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NNS salads))
+    (VP
+      (VP (VBD sounded))
+      (PRN (: -)
+        (S
+          (NP (PRP you))
+          (VP (VBD guessed)
+            (NP (PRP it))))
+        (: -))
+      (ADVP (RB yummy)))))
+
+(ROOT
+  (S
+    (NP (PRP$ my) (NN omelette))
+    (VP (VBD was)
+      (ADJP (RB especially) (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN spicy\/sweet) (NN sauce))
+    (VP (VBZ is)
+      (ADJP (JJ fantastic)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ much-lauded) (NN corn))
+    (VP (VBD was)
+      (ADJP (JJ good)))))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NN lobster) (NN entree))
+    (VP (VBD was)
+      (ADJP (JJ delicious)))))
+
+(ROOT
+  (S (CC But)
+    (NP (DT the) (NN cannoli))
+    (VP (VBD was)
+      (ADJP (RB so) (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NNP Stuffed) (NNP Mushroom))
+    (VP (VBD was)
+      (ADJP (RB surprisingly) (JJ good)))))
+
+(ROOT
+  (FRAG
+    (NP (DT the) (NN corn)
+      (SBAR
+        (S
+          (NP (PRP itself))
+          (VP (VBD was) (RB not)
+            (ADJP (JJ great))))))))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN fish))
+      (VP (VBD was)
+        (VP (VBN cooked)
+          (ADVP (RB perfectly)))))
+    (CC and)
+    (S
+      (NP (NN everything))
+      (VP (VBD complimented)
+        (NP (PRP it))
+        (ADVP (RB so) (RB well))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN chicken) (NN toaco))
+    (VP (VBD was)
+      (ADJP
+        (ADJP
+          (ADJP (JJ okay))
+          (ADJP (RB not) (JJ bad)))
+        (CC but)
+        (ADJP
+          (NP (DT the) (NN enchillada))
+          (JJ waschessey))
+        (CC and)
+        (ADJP (JJ wonderful))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NNS portions))
+    (VP (VBD were)
+      (ADJP (JJ small)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN dressing))
+    (VP (VBD was)
+      (ADJP (RB very) (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN chicken) (NN sandwich))
+    (VP (VBD tasted)
+      (ADJP (RB really) (JJ good)))))
+
+(ROOT
+  (S
+    (NP (NNP 3) (. .) (NNP Raspberry) (NNP Lemon) (NNP Curd) (NNP Tart) (NNP Everything))
+    (VP (VBZ tastes)
+      (ADJP (JJ fantastic)))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD had)
+      (NP
+        (NP (DT the) (NNP Mango) (NNP Chicken) (NNP Curry))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBD was)
+              (ADJP (JJ delicious)))))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN mac)
+      (CC and)
+      (NN cheese))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (JJ terrific))
+        (CC and)
+        (ADJP (RB almost) (JJ sharp) (NN tasting))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NN everything))
+    (VP (VBD was)
+      (ADJP (RB perfectly) (JJ cooked\/seasoned)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN steak) (NNS frites))
+    (VP (VBD were)
+      (ADJP (JJ excellent)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN Boy))
+    (VP (VBD loved)
+      (NP (DT the) (NN crab)))))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN sorbet))
+      (VP (VBD was)
+        (ADJP (JJ smooth))))
+    (CC and)
+    (S
+      (NP (DT the) (NN mango) (NN flavor))
+      (VP (VBD was)
+        (ADJP (JJ lovely))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Mac)
+      (CC and)
+      (NNP Cheese))
+    (VP (VBD was)
+      (ADJP (JJ good) (RB too)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD tried)
+        (NP (DT the) (JJ rainforest) (NN mate) (NN tea))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (ADJP (RB really) (JJ good))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN menu))
+    (VP (VBD was)
+      (ADJP (JJ pretty))
+      (S
+        (VP (VB cut)
+          (CC and)
+          (VB dry))))))
+
+(ROOT
+  (S
+    (NP (DT the) (JJ overall) (NN effect))
+    (VP (VBD was)
+      (NP (DT a)
+        (ADJP (RB very) (JJ dry))
+        (NN crust)))))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP
+          (ADJP (RB so)))
+        (: ...)
+        (NP (DT the)
+          (NX (NNP crust))))
+      (VP (VBD was)
+        (ADJP (JJ unbearable))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN pork) (NNS dishes))
+    (VP (VBD were)
+      (ADJP (JJ delicious)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN pad) (NN thai))
+    (VP (VBD was)
+      (ADJP (JJ dry)
+        (CC and)
+        (JJ flavorless)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN filling))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (RB just) (RB toooo) (JJ rich))
+        (CC and)
+        (ADJP (RB toooo) (JJ sweet))))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (ADVP (RB also))
+    (VP (VBD enjoyed)
+      (NP (PRP$ their) (NNS salads)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS drinks))
+    (VP (VBP are)
+      (ADJP (JJ cheap)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS enchiladas))
+    (VP (VBD were)
+      (ADJP (JJ soggy)))))
+
+(ROOT
+  (S
+    (NP (PDT all) (DT the) (NNS ingredients))
+    (VP (VBD were)
+      (ADJP (JJ fresh)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NNP Chorizo) (NNS tacos))
+    (VP (VBD were) (RB not)
+      (ADJP (RB very) (JJ good)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN uni))
+    (VP (VBD was)
+      (ADJP (JJ delicious)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN shoestring) (NNS fries))
+    (VP (VBD were)
+      (ADJP (JJ decent)
+        (PP (IN at)
+          (ADJP (JJS best)))))))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD ordered)
+        (SBAR
+          (S
+            (NP (DT the) (JJ spicy) (NN shrimp))
+            (VP (VBP stir)
+              (NP (NN fry)))))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (ADVP (RB actually))
+      (VP (VBD was)
+        (ADJP (RB really) (JJ spicy))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN bread))
+    (VP (VBD was)
+      (ADJP (JJ fine)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS entrees))
+    (VP (VBD were)
+      (ADJP (JJ incredible)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN salad) (NNS options))
+    (VP (VBP are)
+      (ADVP (RB seriously))
+      (ADJP (JJ endless)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN frosting))
+    (VP (VBD was)
+      (ADJP (JJ delicious)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS burgers))
+    (VP (VBP are)
+      (ADJP (JJ huge)
+        (CC and)
+        (JJ juicy)
+        (CC and)
+        (JJ delicious)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN glaze))
+    (VP (VBD was)
+      (ADJP
+        (NP (DT a) (RB little))
+        (JJ overpowering)))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD had)
+      (NP
+        (NP (DT the) (NNP Shrimp) (NNP Bobo))
+        (CC and)
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD was)
+              (ADJP (JJ delicious)
+                (CC and)
+                (JJ cheesy)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN crab) (NN rangoon))
+    (VP (VBD was)
+      (ADJP (RB only) (JJ mediocre)))))
+
+(ROOT
+  (S
+    (NP (DT this) (NN carrot) (NN cupcake))
+    (VP (VBD was)
+      (ADVP (RB probably))
+      (NP
+        (NP (DT the) (JJS best) (NN carrot) (NN cake))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP 've)
+              (ADVP (RB ever))
+              (VP (VBN eaten)))))))))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ hands-down) (NN winner))
+    (VP (VBD was)
+      (NP
+        (NP (NNP AJ) (POS 's))
+        (ADJP (RB strawberry) (JJ basil))
+        (NN martini)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ their) (JJ noodle) (NNS soups))
+    (VP (VBP are)
+      (ADJP (JJ great)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN tea) (NN pot))
+    (VP (VBZ is)
+      (ADJP (JJ cute)))))
+
+(ROOT
+  (S (CC And)
+    (NP (DT the) (NN mango) (NN margarita))
+    (VP (VBZ is)
+      (NP
+        (NP (CD one))
+        (PP (IN of)
+          (NP
+            (NP (DT the)
+              (ADJP (RBS most) (JJ delicious))
+              (NNS things))
+            (SBAR
+              (S
+                (NP (PRP I))
+                (VP (VBD 'd)
+                  (ADVP (RB ever))
+                  (VP (VBN conceived)
+                    (PP (IN of))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NN friend))
+    (VP (VBD ordered)
+      (NP
+        (NP (DT the) (JJ cobb) (NN salad))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBD looked)
+              (ADJP (JJ good)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN beef))
+    (VP (VBD was)
+      (ADJP (RB incredibly) (JJ dry)))))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ basil) (NN eggplant))
+    (VP (VBD had)
+      (NP (DT a) (JJ good) (NN flavor)))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD thought)
+      (SBAR
+        (S
+          (S
+            (NP (PRP it))
+            (VP (VBD tasted)
+              (ADJP (JJ great))))
+          (: ...)
+          (CC and)
+          (S
+            (NP (PRP$ my) (NN scallop) (NN salad))
+            (VP (VBD was)
+              (ADJP (RB absolutely) (JJ delicious)))))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN lamb) (NN shank))
+    (VP (VBD was)
+      (ADJP (JJ good)))))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ raw) (NN bar))
+    (VP (VBZ is)
+      (ADVP (RB always))
+      (ADJP (JJ excellent)
+        (PP (IN with)
+          (NP (JJ different) (NN oyster) (NNS selections)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN sauce))
+    (VP (VBZ is)
+      (ADJP (RB so) (JJ good)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBZ 's) (RB not)
+              (ADJP (RB even) (JJ funny)))))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN cocktail) (NN menu))
+    (VP (VBD was)
+      (ADJP (RB highly) (JJ innovative)
+        (CC and)
+        (JJ delicious)))))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ orange) (NN juice))
+    (VP (VBD was)
+      (ADJP (JJ fresh-squeezed)
+        (CC and)
+        (JJ perfect)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Potato) (NNP Gnocci))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (JJ rich))
+        (, ,)
+        (ADJP (RB too) (JJ rich))
+        (CC and)
+        (ADJP (RB just) (JJ awful))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN fruit))
+    (VP (VBZ is) (RB all)
+      (ADJP (RB ridiculously) (JJ fresh)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN dish))
+    (VP (VBD was)
+      (VP (VBN ok)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN chicken) (NN satay)
+      (CC and)
+      (NN pad) (NN thai))
+    (VP (VBP are)
+      (ADJP (JJ amazing)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NNS salads))
+    (VP (VBP are)
+      (ADJP (RB pretty) (JJ tasty) (RB too)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT the)
+        (ADJP (JJ roasted) (JJ garlic))
+        (NN puree))
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD sat)
+            (PRT (RP on))))))
+    (VP (VBD was)
+      (ADJP (JJ delicious)))))
+
+(ROOT
+  (S
+    (NP (NNS Drinks))
+    (VP (VBP are)
+      (ADJP (JJ good)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ mashed) (NNS potatoes))
+      (CC and)
+      (NP
+        (NP (JJ fried) (NNS onions))
+        (SBAR (IN that)
+          (S
+            (NP (PRP they))
+            (VP (VBP serve)
+              (ADVP (RB here)))))))
+    (VP (VBP are)
+      (ADJP (JJ close)
+        (PP (TO to)
+          (ADJP (JJ perfect)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN pork) (NN sausage))
+    (VP (VBD was)
+      (ADJP (JJ A-mazing)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN ice) (NN cream))
+    (VP (VBZ is)
+      (S
+        (VP (TO to)
+          (VP (VB die)
+            (PP (IN for))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (JJ homemade) (NNS gnocchi))
+    (VP (VBD was)
+      (ADJP (RB really) (JJ good)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN caramel))
+      (CC and)
+      (NP (DT the) (JJ light) (NN sorbet)))
+    (VP (VBD created)
+      (NP (DT a)
+        (ADJP (JJ refreshing))
+        (NN feeling)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Crumbled) (NN cheese))
+      (PP (IN on)
+        (NP (NN top))))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (JJ dry))
+        (CC and)
+        (ADJP (RB too) (JJ salty))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP they))
+    (VP (VBP 're)
+      (NP
+        (NP (NNS waffles)
+          (CC and)
+          (NNS pancakes))
+        (SBAR
+          (S
+            (VP (VBP are)
+              (ADJP (JJ great)))))))))
+
+(ROOT
+  (FRAG
+    (NP (DT the)
+      (ADJP (JJ stuffed))
+      (NN eggplant))
+    (ADJP (JJ satisfying))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS tapas))
+    (VP (VBP are)
+      (NP
+        (NP (JJ excellent))
+        (: --)
+        (NP (JJ great) (NN selection))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN tripe))
+    (VP (VBZ is) (RB not)
+      (ADJP (RB too) (JJ chewy)))))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ regular) (NNS fries))
+    (VP (VBD were)
+      (ADJP (JJ delicious)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN beef))
+    (VP (VBZ is)
+      (ADVP (RB really))
+      (NP (NN flavorful)
+        (CC and)
+        (NN tender)))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP
+      (NP (NN bean) (NN sauce))
+      (SBAR
+        (S
+          (VP (SYM =)
+            (NP (DT This) (JJ classic) (NN flavor))))))
+    (PP (IN of)
+      (NP (NNP Cantonese) (NN cuisine)))))
+
+(ROOT
+  (NP
+    (S
+      (S
+        (NP (DT the) (NN gumbo))
+        (VP (VBZ is)
+          (PRN
+            (NP
+              (NP (JJR better))
+              (NP (NNP !)))
+            (-RRB- -RRB-))))
+      (CC and)
+      (S
+        (NP (NNS sides))
+        (VP (VBP are)
+          (NP
+            (NP
+              (ADJP (RB very) (JJ tasty-mashed))
+              (NNS potatoes))
+            (CC and)
+            (NP (JJ creamed) (NN spinach))))))))
+
+(ROOT
+  (S
+    (NP (PRP$ my) (NN friend))
+    (VP (VBD told)
+      (NP (PRP me))
+      (SBAR
+        (S
+          (NP (DT the) (NN gazpacho))
+          (VP (VBD was)
+            (NP
+              (NP (DT the) (JJS best))
+              (SBAR
+                (S
+                  (NP (PRP he))
+                  (VP (VBD 'd)
+                    (ADVP (RB ever))
+                    (VP (VBN eaten))))))))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN place))
+    (VP (VBZ is)
+      (ADJP (VBN decorated)
+        (PP (IN with)
+          (NP
+            (NP (NNS peppers))
+            (CC and)
+            (NP (VBG warning) (NNS tapes))))))))
+
+(ROOT
+  (S
+    (VP (VB Chocolate)
+      (NP
+        (ADJP (JJ drizzled) (NN pecan))
+        (NN pie)))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (JJ spicy) (NNS dishes))
+      (VP (VBP are)
+        (ADJP (JJ spicy))))
+    (CC and)
+    (S
+      (NP (DT the) (NN non) (NN spicy) (NNS dishes))
+      (VP (VBP are) (RB n't)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT the) (NNS olives))
+    (VP (VBD were)
+      (ADJP (JJ good)))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (VP (VBD got)
+        (NP (NN chicken) (NN piccata)))
+      (CC and)
+      (VP (VBD was)
+        (ADJP (RB pretty) (JJ happy))))))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP make)
+      (NP
+        (NP (DT the)
+          (ADJP (RBS most) (JJ delicious))
+          (NNS burgers))
+        (PP (IN with)
+          (NP (JJ such) (JJ great) (NNS toppings)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN shell))
+      (VP (VBD was) (RB n't)
+        (ADJP (RB crispy) (JJ anymore))))
+    (CC but)
+    (S
+      (NP (PRP they))
+      (VP (VBD were)
+        (ADVP (RB still))
+        (ADJP (JJ good))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Trout))
+      (PP (IN with)
+        (NP
+          (NP (NNP Rock) (NNP Shrimp))
+          (CC and)
+          (NP (NNP Garlic) (NNP Spinach)))))
+    (VP (VBD was)
+      (ADJP (RB pretty) (JJ good)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN burger))
+    (VP (VBD was)
+      (ADJP (VBG boring)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN mac)
+      (CC and)
+      (NN cheese))
+    (VP (VBD was)
+      (ADJP (JJ delicious)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN chowder))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (RB very) (JJ thick))
+        (CC but)
+        (RB not)
+        (ADJP (RB too) (JJ amazing))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN tuna))
+    (VP (VBD was)
+      (VP (VBN seared)
+        (ADVP (RB nicely))))))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN soup))
+      (VP (VBD was)
+        (ADJP (JJ creamy)
+          (CC and)
+          (JJ tasted))
+        (SBAR (RB just) (IN like)
+          (S
+            (NP (NN spring))
+            (VP (MD should)
+              (VP (VB taste)))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (NN sandwich))
+      (VP (VBD was)
+        (ADVP (RB quite))
+        (ADVP (RB possibly))
+        (NP
+          (NP (DT the)
+            (ADJP (RBS most) (JJ perfect))
+            (JJ grilled) (NN cheese) (NN sandwich))
+          (PP (IN in)
+            (NP (NN existence))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS odds)
+      (CC and)
+      (NNS ends))
+    (VP (VBP are) (RB all)
+      (ADVP (RB also))
+      (ADJP (JJ delicious)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN vodka))
+    (VP (VBD was) (RB n't)
+      (ADJP (JJ good)))))
+
+(ROOT
+  (S (CC And)
+    (NP (DT the) (NNS potatoes))
+    (VP (VBP au)
+      (NP
+        (NP (NN gratin))
+        (: -)
+        (NP
+          (ADJP (JJ pretty))
+          (NNS tasty))
+        (-RRB- -RRB-)))))
+
+(ROOT
+  (S
+    (NP (PRP$ Their) (NN catfish) (NN dish))
+    (VP (VBZ approaches)
+      (NP (NN perfection)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN charcuterie))
+    (VP (VBD was)
+      (ADJP (JJ perfect)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN pasta) (NNS entrees))
+    (VP (VBP are)
+      (NP (JJ big) (NN portion)))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD got)
+      (NP
+        (NP (DT the) (JJ fried) (NN chicken))
+        (: -)
+        (ADVP (RB yummy)))
+      (, ,)
+      (ADVP (RB yummy)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (NNP Pot) (NNP roast))
+    (VP (VBD was)
+      (ADJP (RB pretty) (JJ good)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN brisket) (NNS chunks))
+    (VP (VBP are)
+      (ADJP (RB incredibly) (JJ tender)))))
+
+(ROOT
+  (S
+    (NP (PRP$ their) (NN size))
+    (VP (VBD made)
+      (NP
+        (NP
+          (NP (NN sharing))
+          (ADJP (RB nearly) (JJ impossible)))
+        (CC and)
+        (NP
+          (NP (DT the) (NN temperature))
+          (VP (VBN made)
+            (S
+              (NP (PRP them))
+              (ADJP (RB nearly) (JJ inedible)))))))))
+
+(ROOT
+  (S
+    (NP (NN lamb) (NNS tips))
+    (VP (VBD were)
+      (ADJP
+        (NP (DT a) (RB bit))
+        (JJ burnt)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS fries))
+    (VP (VBP are)
+      (ADJP
+        (ADJP (RB really) (JJ crispy))
+        (CC and)
+        (ADJP (RB soooooo) (JJ good))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN spinach)
+      (CC and)
+      (NN potato) (NN gratin))
+    (VP (VBD were)
+      (ADJP (RB equally) (JJ amazing)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNP Sevice))
+      (VP (VBZ has)
+        (ADVP (RB always))
+        (VP (VBN been)
+          (ADJP (JJ great)))))
+    (CC and)
+    (S
+      (NP (DT the) (NN food))
+      (VP (VBZ has)
+        (ADVP (RB always))
+        (VP (VBN been)
+          (ADJP (JJ incredible)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN highlight))
+    (VP (VBD was)
+      (NP (DT the)
+        (ADJP (RB half) (JJ roasted))
+        (NN chicken)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NN friend))
+    (VP (VBD had)
+      (NP
+        (NP (DT the) (NN ceche))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBD was)
+              (UCP
+                (NP (JJ fluffy))
+                (, ,)
+                (ADVP (RB savory))
+                (, ,)
+                (CC and)
+                (ADJP (JJ tasted) (JJ fresh))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN pork) (NN chop))
+    (VP (VBD was)
+      (VP (VBN cooked)
+        (ADVP
+          (ADVP (RB perfectly))
+          (CC and)
+          (ADVP (RB nicely) (RB grilled)))
+        (PP (IN on)
+          (NP (DT both) (NNS sides)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (JJ English) (NNS muffins))
+    (VP (VBD were)
+      (ADJP (JJ soggy)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ Their) (NN mac))
+      (CC 'n)
+      (NP (NN cheese)))
+    (VP (VBZ is)
+      (ADJP (RB pretty) (JJ good) (RB too)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (NNS Ostras))
+        (PP (IN en)
+          (NP (NNP Escabeche))))
+      (: -)
+      (NP
+        (NP (NNP Marinated) (NNP Island) (NNP Creek) (NNS oysters))
+        (PP (IN with)
+          (NP
+            (NP (NNS grains))
+            (PP (IN of)
+              (NP (NN paradise) (, ,) (NN lovage)
+                (CC and)
+                (NNS citrus))))))
+      (, ,))
+    (VP (VBD were)
+      (ADJP (JJ divine)))))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD ordered)
+        (NP (DT the) (JJ shredded) (NN pork) (NN sandwich))))
+    (: ...)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (ADJP (NN nothing) (JJ great))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN texture))
+    (VP (VBD was)
+      (ADJP (JJ great)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NNP Naan) (NN bread))
+    (VP (VBD was)
+      (ADJP (JJ wonderful)))))
+
+(ROOT
+  (S
+    (NP (NNP Elote))
+    (VP (VBD was)
+      (ADJP (RB prety) (JJ good)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN texture))
+    (VP (VBD was)
+      (ADJP (JJ great)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ red) (JJ lentil) (NN slider))
+      (, ,)
+      (VP (VBN whipped)
+        (S
+          (ADJP (JJ feta)
+            (CC and)
+            (JJ falafel)))))
+    (VP (VBP are)
+      (ADJP (JJ outstanding)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN beer) (NN selection))
+    (VP (VBZ is)
+      (ADJP (JJ good)))))
+
+(ROOT
+  (NP
+    (NP (DT the) (NN chicken))
+    (NP
+      (NP (JJ crisp))
+      (CC and)
+      (NP (RB then) (NN tender)))))
+
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBD had)
+      (NP
+        (NP (DT a) (JJ creamy)
+          (ADJP (JJ garlic)
+            (CC and)
+            (JJ rosemary))
+          (NN flavor) (NN pan))
+        (VP (VBN seared)
+          (PP (TO to)
+            (NP (NN perfection))))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN buffet))
+    (VP (VBD was)
+      (VP (VBN expansive)
+        (PP (IN with)
+          (NP (JJ delicious) (NNS dishes)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN salmon) (NN meatball))
+    (VP (VBZ is)
+      (NP (DT a) (NN loser)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ potataoey) (NN app))
+      (PP (IN with)
+        (NP (NN raita))))
+    (VP (VBD was)
+      (ADJP (JJ sensational)))))
+
+(ROOT
+  (S
+    (NP (DT the) (JJ cupcake) (NN part))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (JJ dense))
+        (CC and)
+        (ADJP (RB slightly) (RB too) (JJ dry))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN chili))
+    (VP (VBZ is)
+      (ADJP (JJ commendable) (RB too)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN monk) (POS 's))
+      (NNS frites))
+    (VP (VBP are)
+      (ADJP (JJ heavenly))
+      (, ,)
+      (ADVP (RB too)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS cocktails))
+    (VP (VBD were)
+      (ADJP (JJ mediocre)
+        (PP (IN at)
+          (ADJP (JJS best)))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Tortilla) (NNP Espanola))
+    (VP (VBD had)
+      (NP (DT a) (JJ great) (NN flavor)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS veggies))
+    (VP (VBD were)
+      (ADJP (JJ fresh)))))
+
+(ROOT
+  (S
+    (NP (NNS Drinks))
+    (VP (VBP are)
+      (ADJP (JJ mixed))
+      (ADVP (RB well)))))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD ordered)
+        (SBAR
+          (S
+            (NP (DT the) (NNP Pho) (NNP Tai) (NN w))
+            (VP (VBD \/)
+              (NP (DT the) (JJ rare) (NN steak))
+              (PP (IN on)
+                (NP (DT the) (NN side))))))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP
+        (VP (VBD was)
+          (ADJP (JJ delicious)))
+        (CC and)
+        (VP (VBD hit)
+          (NP (DT the) (NN spot)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN steak))
+    (VP (VBD was)
+      (ADJP (JJ perfect)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN drunken) (NNS noodles))
+    (VP (VBP are)
+      (ADJP
+        (ADJP (RB very) (JJ spicey)
+          (CC and)
+          (JJ full))
+        (PP (IN of)
+          (NP (NN flavor)))))))
+
+(ROOT
+  (S
+    (ADVP (RB ALL))
+    (NP (DT the) (NNS breads))
+    (VP (VBP are)
+      (ADJP (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Thai) (NN food))
+    (VP (VBD seemed)
+      (NP (JJ pretty) (NN standard)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD ordered)
+      (NP
+        (NP (DT the) (NN salmon) (NN tartar))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBD was)
+              (ADJP (JJ great)))))))))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ grilled) (NN cheese))
+    (VP (VBD was)
+      (ADJP (RB horridly) (JJ bland)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN buttercream))
+      (PP (IN on)
+        (NP (DT the) (NN chocolate)
+          (CC and)
+          (NN vanilla) (NNS cupcakes))))
+    (VP (VBD was)
+      (ADJP (JJ disgusting)))
+    (. .)))
+
+(ROOT
+  (S
+    (INTJ (JJ Good) (NN Food) (. !))
+    (VP (VB Had)
+      (SBAR
+        (S
+          (NP (DT a) (NNP Tuna) (NNP Melt))
+          (VP (VBD made)
+            (SBAR
+              (S
+                (NP (DT the) (NN way) (NN GOD))
+                (VP (VBD intended)
+                  (NP (PRP it))
+                  (PP (IN as)
+                    (NP (DT a) (NNP Tuna) (NNP Salad))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN bread))
+    (VP (VBD was)
+      (ADJP (JJ amazing)))))
+
+(ROOT
+  (NP
+    (NP (NNP Baked) (NNP Goat) (NNP Cheese) (NNP w\/Tomato)
+      (CC &)
+      (NNP Basil))
+    (: ...)
+    (NP
+      (NP (DT another) (NN favorite))
+      (PP (IN of)
+        (NP (NN mine))))))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN tomato) (NN soup))
+      (VP (VBD was) (RB not)
+        (NP (PRP$ your) (JJ average)
+          (NP (NNP Campbell) (POS 's))
+          (JJ canned) (NN variety))))
+    (: ...)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (VP
+          (VP
+            (ADJP (JJ chunky)
+              (CC and)
+              (JJ full))
+            (PP (IN of)
+              (NP (NN garden) (JJ fresh) (NNS tomatoes))))
+          (CC and)
+          (VP (VBN paired)
+            (ADVP (RB perfectly))
+            (PP (IN with)
+              (NP (DT the) (JJ delectable) (JJ grilled) (NN cheese)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (RB even) (DT the) (JJ peking) (NN pork) (NNS chops))
+    (VP (VBP are)
+      (ADVP (RB lip))
+      (VP (VBG smacking)
+        (ADJP (JJ good))))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP choose)
+      (NP (JJ fried) (NN ice) (NN cream))
+      (PP (IN as)
+        (NP (PRP$ my) (JJ favorite) (NN dessert))))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD thought)
+      (SBAR
+        (S
+          (NP (PRP$ my) (NN Reuben))
+          (VP (VBD was)
+            (ADJP (JJ good)
+              (CC but)
+              (RB not) (JJ great))))))))
+
+(ROOT
+  (S
+    (NP (PRP$ His) (NN dish))
+    (VP (VBD was)
+      (ADJP (JJ amazing)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ my) (NN fish))
+    (VP (VBD was)
+      (ADJP (JJ great)))))
+
+(ROOT
+  (S
+    (NP (EX there))
+    (VP (VBD were)
+      (NP
+        (NP (JJR more) (NN specialty) (NNS drinks))
+        (VP (VBG Pretty)
+          (NP (JJ good) (NN menu)))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNP BLT))
+    (VP (VBD was)
+      (ADJP (JJ great)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NNS sandwiches) (, ,) (NNS mussels)
+      (CC and)
+      (NNS burgers))
+    (VP (VBP are) (RB all)
+      (ADJP (JJ awesome)))))
+
+(ROOT
+  (S
+    (NP (NNP Bean) (NN spread))
+    (VP (VBD was)
+      (ADJP (JJ nice)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN risotto))
+    (VP (VBZ is)
+      (ADJP (JJ tasty)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ lentil) (NN soup))
+    (VP (VBZ is)
+      (ADJP (JJ nice)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN catfish) (NN po) (POS '))
+      (NN boy)
+      (CC and)
+      (JJ pulled) (NN pork) (NNS sandwich))
+    (VP (VBD were) (DT both)
+      (VP
+        (ADVP (RB perfectly))
+        (VBN executed)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN goat) (NN cheese) (NN dish))
+    (VP (VBD was)
+      (NP (PRP$ my) (NN favorite)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN beer) (NN selection))
+    (VP (VBZ is)
+      (ADVP (RB also))
+      (ADJP (JJ decent)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN chicken)
+      (CC and)
+      (NN pork) (NNS dishes))
+    (VP (VBP are)
+      (ADJP (JJ solid)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN bread) (NNS crumbs))
+    (VP (VBD were)
+      (ADJP (JJ bready-y)))))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD ordered)
+        (NP (DT the) (NNP Bacon)
+          (CC &)
+          (NNP Egg) (NNP Fancy) (NN sandwich))))
+    (CC and)
+    (S
+      (INTJ (UH oh) (PRP$ my) (NNP goodness))
+      (NP (PRP I))
+      (VP (VBD was) (RB not)
+        (ADJP (JJ disappointed))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ sweet) (NN potato) (NN pie))
+    (VP (VBZ is)
+      (ADJP (JJ awesome)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT This) (NN stuff))
+    (VP
+      (VP (VBZ is)
+        (NP
+          (NP (JJR creamier))
+          (PP (IN than)
+            (NP (NNP Pinkberry)))))
+      (, ,)
+      (CC and)
+      (VP (VBZ has)
+        (NP
+          (NP (RB almost) (DT a) (JJ subtle) (JJ honey-like) (NN taste))
+          (PP (TO to)
+            (NP (PRP it))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN samosa))
+      (PP (IN like)
+        (NP (NN sambusa))))
+    (VP (VBD were)
+      (ADJP (JJ tasty)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NNS beers))
+    (VP (VBD were)
+      (ADJP (RB pretty) (RB reasonably) (VBN priced)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN pork))
+    (VP (VBD was)
+      (ADJP (JJ tasty)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS fries))
+    (VP (VBP are)
+      (ADJP (JJ perfect)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNS Salads))
+    (VP (VBP are)
+      (ADJP
+        (NP (DT a) (RB bit))
+        (JJ unimaginative)))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (DT The) (NNS cheeses))
+      (ADJP (RB all) (JJ tasted)))
+    (ADJP (RB very) (JJ fresh))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN steak))
+      (CC &)
+      (NP (NNP eggs) (NNP and)))
+    (VP (VBD said)
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD was)
+            (ADJP (RB extremely) (JJ good))))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP George) (NNP Bush) (NNP Jr))
+      (CC and)
+      (NP (DT the) (NNP Bill) (NNP Clinton)))
+    (VP (VBP are)
+      (ADJP (JJ great)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN banana) (NN bread))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (RB well) (VBN made))
+        (CC and)
+        (ADJP (JJ tasty))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS drinks))
+    (VP (VBD were)
+      (ADVP (RB also))
+      (ADJP (JJ weak)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NNS pastas))
+    (VP (VBP are)
+      (ADJP (RB somewhat) (JJ gooey)))))
+
+(ROOT
+  (S
+    (NP (DT the) (JJ shabu) (NN shabu))
+    (ADVP (RB here))
+    (VP (VBZ is)
+      (ADJP (RB pretty) (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (JJ soaked) (NN top))
+    (VP (VBZ is)
+      (ADJP (RB super) (JJ good)))))
+
+(ROOT
+  (S
+    (NP (NNS others))
+    (VP (VBD enjoyed)
+      (NP (DT the) (NNP Taza) (NN chocolate) (NN pudding))
+      (ADVP (RB very) (RB much)))))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ collared) (NNS greens))
+    (VP (VBP are)
+      (ADJP (JJ amazing)
+        (SBAR (IN as)
+          (S
+            (VP (VBZ is)
+              (NP (DT the) (NN mac)
+                (CC and)
+                (NN cheese)))))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN meat))
+    (VP (VBD was)
+      (NP (NN tender)
+        (CC and)
+        (NN juicy)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN scallop))
+    (VP (VBD was)
+      (ADJP (RB so) (JJ creamy)
+        (CC and)
+        (JJ good)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Applewood))
+    (VP (VBD smoked)
+      (SBAR
+        (S
+          (NP (NNP BLT))
+          (VP (VBZ is)
+            (ADJP (JJ delish))))))))
+
+(ROOT
+  (S
+    (NP (DT the))
+    (VP
+      (VP (VBD rose)
+        (NP (JJ black) (NN tea)))
+      (, ,)
+      (VP (VBD added)
+        (NP (NN milk)
+          (CC and)
+          (NN sugar)))
+      (CC and)
+      (VP (VBD loved)
+        (NP (PRP it))))))
+
+(ROOT
+  (S
+    (NP (NN burger))
+    (VP (VBD was)
+      (ADJP (JJ great)))))
+
+(ROOT
+  (S
+    (NP (JJ other) (NNS sides))
+    (VP (VBP are)
+      (ADJP (RB very) (JJ tasty)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN fish))
+    (VP (VBD was)
+      (ADJP (JJ fresh)))))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ spiked) (NN lime))
+    (ADVP (RB rickey))
+    (VP (VBZ is)
+      (ADJP (JJ good) (RB too)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NNS wings))
+    (VP (VBD were)
+      (ADJP (RB very) (JJ sour)))))
+
+(ROOT
+  (S
+    (VP (VB Love)
+      (NP (DT the) (NN turkey) (NN cranberry) (NN sandwich)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN beef))
+    (VP (VBD had)
+      (NP (DT no) (NN flavor)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN beet) (NN salad))
+    (VP (VBD was)
+      (ADJP (JJ tasty)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN falafel))
+    (VP (VBD was)
+      (UCP
+        (ADJP (JJ dry))
+        (CC and)
+        (PP (IN like)
+          (NP (NN hockey) (NNS pucks)))))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN salsa))
+    (VP (VBZ is) (RB n't)
+      (ADJP (JJ great)))))
+
+(ROOT
+  (S
+    (NP (PRP$ Their) (JJ pulled) (NN pork)
+      (CC and)
+      (NN cuban) (NN reuben))
+    (VP (VBD were)
+      (ADJP (DT both) (JJ delicious)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN salmon))
+    (VP
+      (VP (VBD was)
+        (ADJP (JJ dry)))
+      (, ,)
+      (CC but)
+      (VP (VBD had)
+        (NP (JJ good) (NN flavor))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (JJ dry) (NN sushi))
+    (VP (VBD was)
+      (ADJP (JJ possible)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN star))
+      (PP (IN of)
+        (NP (DT the) (NN plate))))
+    (VP (VBD was)
+      (NP
+        (NP (DT the) (JJ grits) (, ,) (JJ creamy) (NN goodness))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD evoked)
+              (NP
+                (NP (NNS bits))
+                (PP (IN of)
+                  (NP (JJ fresh) (NN corn)))))))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS drinks))
+    (VP (VBP are)
+      (ADJP (JJ fresh) (, ,) (JJ fun)
+        (CC and)
+        (JJ delicious)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN cheese))
+      (VP (VBD was)
+        (ADJP (JJ succulant))))
+    (CC and)
+    (S
+      (NP (DT the) (NNS couscous))
+      (VP (VBZ has)
+        (VP (VBN become)
+          (NP (PRP$ my) (JJ new) (JJ favorite) (NN dish)))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD had)
+        (NP (DT the) (JJ fried) (, ,) (JJ vegetarian) (NN spring) (NNS rolls))))
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBD were)
+        (ADJP (JJ crispy)
+          (CC and)
+          (JJ fresh))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN food))
+    (VP (VBZ 's)
+      (ADJP (JJ good)
+        (CC but)
+        (RB not) (JJ spectacular)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN crab) (NNS ragoons))
+    (VP (VBD were)
+      (VP (VBN packed)
+        (S
+          (ADJP (JJ full)
+            (CC and)
+            (JJ delicious)))))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN portion))
+    (VP (VBD was)
+      (ADJP (JJ gigantic)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN crust))
+    (VP (VBD was)
+      (ADJP (JJ tasty)))))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (DT the) (NN sauce))
+        (PP (IN of)
+          (NP (PRP$ my) (NNS scallops))))
+      (CC and)
+      (NP
+        (NP (NN shrimp))
+        (PP (IN over)
+          (NP (NNS noodles)))))
+    (VP (VBD was)
+      (ADJP (RB too) (JJ salty)
+        (CC and)
+        (JJ vinegary)))))
+
+(ROOT
+  (S
+    (NP (PRP they))
+    (VP (VBZ tapas)
+      (SBAR
+        (S
+          (NP (EX there))
+          (VP (VBP are)
+            (ADJP (RB incredibly) (JJ delicious))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP Food) (NNP =))
+    (NP (CD 3) (NNS stars))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS drinks))
+    (VP (VBP are)
+      (VP (VBG watered)
+        (PRT (RP down))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ Their) (NN cheese) (NN plate))
+    (VP (VBD was)
+      (ADJP (JJ nice)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN filling))
+      (PP (IN at)
+        (NP (NNP Mike) (POS 's))))
+    (VP (VBZ has)
+      (NP
+        (NP (DT a) (JJR more) (NN cheesy))
+        (, ,)
+        (NP (JJR thicker) (NN consistency))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (: ...)
+        (NP (DT the))
+        (PP (VBG grilled)
+          (NP (NN corn))))
+      (PP (VBZ is)
+        (NP (NN divine))))))
+
+(ROOT
+  (S
+    (NP (NNS Grits))
+    (VP (VBD were)
+      (NP (JJ perfect) (NN consistency)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN antipasto) (NN appetizer))
+    (VP (VBD was)
+      (ADJP (JJ awesome)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (S
+        (NP (DT The) (NN chai) (NN tea))
+        (VP (VBD was)
+          (ADJP
+            (ADJP (RB pretty) (JJ good))
+            (CC but)
+            (ADJP (RB overly) (JJ sweet)))))
+      (, ,)
+      (CC and)
+      (S
+        (NP
+          (NP (DT the) (NNS apples))
+          (PP (IN in)
+            (NP
+              (NP (PRP$ my) (NN friend) (POS 's))
+              (NN crepe))))
+        (VP (VBD was)
+          (VP (VBG overwhelming)
+            (ADJP (JJ sweet))))))
+    (: ;)
+    (S
+      (NP (DT the) (NN crepe))
+      (ADVP (PRP itself))
+      (VP (VBD tasted)
+        (ADJP (RB merely) (JJ okay))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN sushi))
+    (VP (VBD was)
+      (ADJP (JJ good)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN rice))
+      (CC and)
+      (NP (NNS beans)))
+    (VP (VBD were)
+      (ADJP (RB equally) (JJ bland)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (MD 'd)
+      (ADVP (RB highly))
+      (VP (VB recommend)
+        (NP
+          (NP (DT the) (NN beer))
+          (: -)
+          (NP (JJ great) (JJ complex) (NN flavor)))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN sangria))
+    (VP (VBD was)
+      (ADJP (RB really) (JJ tasty)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN mac))
+      (CC &)
+      (NP (NN cheese)))
+    (VP (VBD was)
+      (ADVP (RB just))
+      (VP (VBN creamy)
+        (PP (IN with)
+          (NP
+            (NP (NNS lots))
+            (PP (IN of)
+              (NP (JJ melted) (NN cheese)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ smoked) (NN bluefish) (NNS cakes)
+      (CC and)
+      (NNS mussels))
+    (VP (VBD were)
+      (ADJP (DT both) (JJ incredible) (JJ appetizers)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN sushi))
+    (ADVP (RB here))
+    (VP (VBD was)
+      (ADJP (JJ excellent)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN squid))
+    (VP (VBZ is)
+      (ADJP (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD had)
+      (NP
+        (NP (NNS bites))
+        (PP (IN of)
+          (NP
+            (NP
+              (NP (PRP$ my) (NN friend) (POS 's))
+              (NN carbonara))
+            (, ,)
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBD was) (RB not)
+                  (ADJP (JJ bad)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN kang))
+      (VP (VBG kong)
+        (ADVP (RB crunchy))))))
+
+(ROOT
+  (S
+    (NP (PRP$ Their) (NNS fries))
+    (VP (VBP are)
+      (ADJP (JJ delicious)
+        (CC and)
+        (JJ thick)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN shrimp))
+    (VP (VBD were)
+      (ADJP (JJ great)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS flavors))
+      (PP (IN on)
+        (NP (DT the) (NN bacon))))
+    (VP (VBD were)
+      (ADJP (JJ sweet)
+        (CC and)
+        (JJ spicy))
+      (ADVP (RB nicely))
+      (VP (VBG complimenting)
+        (NP
+          (NP (DT the) (NN rest))
+          (PP (IN of)
+            (NP (DT the) (NN meal))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN cream) (NN sauce)
+      (CC and)
+      (NN pasta))
+    (VP (VBP are)
+      (ADJP (RB so) (JJ tasty)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN meat))
+    (VP (VBD was) (RB n't)
+      (ADJP (RB too) (JJ fatty)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN catfish))
+    (VP (VBD was)
+      (ADJP (JJ okay)
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBP seem)
+              (SBAR
+                (S
+                  (NP (DT the) (NN acid))
+                  (VP (VBD made)
+                    (NP
+                      (NP
+                        (NP (DT the) (NN dish))
+                        (NP (DT a) (NN bit)))
+                      (VP (VBN disconnected)))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN beef))
+    (VP (VBD was)
+      (ADJP (JJ fat-city)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN dessert))
+    (VP (VBD was) (RB not)
+      (ADJP (RB too) (JJ heavy)))))
+
+(ROOT
+  (S
+    (NP (DT the) (JJ carmelized) (NN sugar) (NN crust))
+    (VP (VBD was)
+      (NP (NN perfection)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NNS tacos))
+    (VP (VBP are)
+      (ADJP (JJ eh)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Crispy) (NNP Lo) (NNP Mein))
+    (VP (VBD was)
+      (ADJP (JJ enormous)
+        (PP (IN as)
+          (ADVP (RB well)))))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN naan))
+    (VP (VBD was)
+      (ADJP (JJ good)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS entrees))
+    (VP (VBP are)
+      (ADJP (JJ sizable)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS potatoes))
+    (VP (VBD were)
+      (ADJP (JJ excellent)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NNS mussels))
+    (VP (VBD were)
+      (ADJP (JJ terrible)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS muffins))
+    (VP (VBP are)
+      (ADJP (JJ small)
+        (CC and)
+        (JJ dainty)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN food))
+    (VP
+      (ADVP (RB really))
+      (VBD did)
+      (NP
+        (NP (NN taste))
+        (ADJP (RB amazingly) (JJ fresh))))))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ pulled) (NN pork))
+    (VP (VBD was)
+      (ADJP (JJ fine)))))
+
+(ROOT
+  (S
+    (NP (CC both)
+      (NP (DT the) (NN lobster) (NN bisque))
+      (CC and)
+      (NP (NN seafood) (NN gumbo)))
+    (VP (VBP are)
+      (ADJP (JJ excellent)))))
+
+(ROOT
+  (S
+    (NP (NN Beef))
+    (VP (VBD was)
+      (PP
+        (NP (DT a) (JJ little))
+        (IN on)
+        (NP
+          (NP (DT the) (JJ fatty) (NN side))
+          (PP (IN for)
+            (NP (PRP$ my) (NN taste))))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN calamari))
+    (VP (VBZ is)
+      (ADJP (RB rather) (JJ tasty)))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD ordered)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (JJ rare) (NN Ahi))
+            (CC and)
+            (NP (PRP it)))
+          (VP (VBD was)
+            (ADJP (RB very) (JJ good))))))))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ swordfish) (NN taco))
+    (VP (VBD was)
+      (ADJP (JJ tasty)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN momo) (NNS dumplings))
+    (VP (VBP are)
+      (ADJP (JJ incredible)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NNS portions))
+    (VP (VBD were)
+      (UCP
+        (ADJP (JJ large))
+        (CC and)
+        (NP
+          (NP (DT the) (JJ iced) (NN tea))
+          (VP (VBN tasted)
+            (NP (JJ fresh) (NNS brewed))))))))
+
+(ROOT
+  (SINV
+    (FRAG
+      (NP (PRP$ my) (NN mom)))
+    (VP (VBZ makes)
+      (NP (DT the) (JJ absolute))
+      (ADVP (RBS best)))
+    (NP (NNP Mac) (NN n) (NNP Cheese) (NNP EVER))))
+
+(ROOT
+  (S
+    (VP (VBD Had)
+      (NP
+        (NP (DT the) (NN corn) (NNS dogs))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBD were)
+              (ADJP (JJ good)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD loved)
+      (SBAR
+        (S
+          (NP
+            (NP (DT the) (NN bit))
+            (PP (IN of)
+              (NP (NN lime))))
+          (VP (VBD curd)
+            (S
+              (VP (VBG filling)
+                (CC and)
+                (VBG whipped)
+                (NP (NN buttercream))))))))))
+
+(ROOT
+  (SBAR
+    (WHADVP (RB however))
+    (S
+      (NP (DT the) (NNP Torch) (NN roll))
+      (VP (VBD was)
+        (ADJP (JJ fantastic))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN chicken))
+      (ADVP (RB also)))
+    (VP (VBD tasted)
+      (ADJP (RB so) (JJ good))
+      (PP (IN with)
+        (NP (DT the) (NN rice))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS oysters))
+    (VP (VBP are)
+      (ADJP (JJ tremendous)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNP Lobstertail))
+      (VP (VBD had)
+        (NP
+          (NP (DT some)
+            (ADJP (JJ good) (JJ old))
+            (NNP fashioned) (NNP whipped) (NN cream))
+          (PP (IN in)
+            (NP (PRP it))))))
+    (, ,)
+    (NP (NN shell))
+    (VP (VBD made)
+      (PP (IN of)
+        (NP (NN puff) (NN pastry))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ sweet) (NN potato) (NN raviolo) (NN appetizer))
+    (VP (VBD was)
+      (NP (NN perfection)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN bread))
+    (VP (VBZ is)
+      (ADJP (JJ chewy)
+        (CC and)
+        (JJ squishy)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN bun))
+    (VP (VBD was)
+      (VP (VBN toasted)
+        (ADVP (RB perfectly))))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN scallion) (NNS pancakes))
+    (VP (VBD were)
+      (ADJP (JJ good)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS scallops))
+    (VP (VBD were)
+      (ADJP (JJ good)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NNP Hurricane) (NN Rum)
+      (CC and)
+      (NN pineapple) (NN juice))
+    (VP (VBD hit)
+      (NP (DT the) (NN spot)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NNP Orient) (NNP Express))
+    (VP (VBD tasted)
+      (NP (DT a) (NN bit))
+      (PP (IN like)
+        (NP (NN bath) (NN water))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN kale))
+    (VP (VBZ is)
+      (ADJP (JJ yummy)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS cocktails))
+    (VP (VBP are)
+      (ADVP (RB also))
+      (NP (JJ wonderful) (, ,)
+        (ADJP (RB really) (JJ good))
+        (NNS choices)
+        (CC and)
+        (JJ interesting) (NNS combinations)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN guacamole))
+    (VP (VBD was) (RB n't)
+      (ADJP (JJ creamy)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN steak))
+    (VP (VBD was)
+      (ADJP (JJ tasty)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN ice) (NN cream))
+    (VP (VBD was)
+      (NP
+        (NP (JJ good) (JJ only) (NN cause))
+        (SBAR
+          (S
+            (NP (PRP it))
+            (VP (VBD was)
+              (ADVP (RB probably))
+              (NP (NNS Breyers)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN dish))
+    (VP (VBD did)
+      (SBAR
+        (S
+          (VP (VBP lack)
+            (NP (DT a) (JJ little) (NN salt))))))))
+
+(ROOT
+  (S
+    (NP (DT the) (JJ candied) (NNS yams))
+    (VP (VBP are)
+      (ADJP (JJ great)))))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN crust))
+      (VP (VBD was)
+        (ADJP (JJ top-notch))))
+    (CC and)
+    (S
+      (NP (DT the) (NN sauce))
+      (VP (VBD was)
+        (ADJP (NN nothing) (JJ short))
+        (PP (IN of)
+          (NP (NNP exemplary)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (JJ red) (NN sauce))
+    (VP (VBD was)
+      (ADJP (JJ average)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Very) (JJ good) (NN guac))
+      (, ,)
+      (CC and)
+      (NP (JJ addicting) (NNS chips))
+      (DT that))
+    (VP (VBD were)
+      (VP (VBN cooked)
+        (CC and)
+        (VBN salted)
+        (ADVP (RB perfectly))))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Plato) (NNP mixto))
+      (VP (VBD was)
+        (ADJP (JJ tasty))))
+    (: -)
+    (S
+      (NP (DT the) (NN ham) (NN assortment))
+      (VP (VBD was)
+        (ADJP (JJ phenomenal))))))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Fried))
+      (VP (VBP artichoke)
+        (NP (NN appetizer) (, ,) (NN shrimp)
+          (CC and)
+          (NNS grits) (NN appetizer))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (NN beet) (NN salad))
+      (VP (VBD were) (RB all)
+        (ADJP (JJ delicious))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ warm) (NN goat) (NN cheese) (NN appetizer))
+    (VP (VBZ is)
+      (VP (VBG AMAZING)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS cocktails))
+    (VP (VBD were)
+      (ADJP (RB pretty) (JJ skimpy)
+        (PP (IN as)
+          (ADVP (RB well)))))))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (DT The) (NNS appetizers))
+      (SBAR
+        (S (-LRB- -LRB-)
+          (NP (DT a) (NN favorite))
+          (VP (VBZ is)
+            (NP (DT the))))))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN portion))
+    (VP (VBD was)
+      (ADJP (JJ small)))))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS portions))
+      (VP (VBP are)
+        (ADJP (RB pretty) (JJ big)
+          (PP (IN for)
+            (NP (PRP$ its) (NN price))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (DT the) (JJ Brazilian) (NNP Crab) (NNP Cake))
+      (VP (VBZ is)
+        (S
+          (VP (TO to)
+            (VP (VB die)
+              (PP (IN for)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (JJ sweet) (NN potato) (NN sandwich))
+    (VP (VBD was)
+      (ADVP (RB probably))
+      (NP
+        (NP (DT the) (JJS best) (NN sandwich))
+        (SBAR
+          (S
+            (NP (PRP she))
+            (VP (VBZ 's)
+              (ADVP (RB ever))
+              (VP (VBN eaten)))))))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN lettuce))
+    (VP (VBD was)
+      (ADJP (JJ limp)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN pabellon) (NN criollo))
+    (VP (VBD was)
+      (ADJP (JJ fabulous)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (JJ Lobster\/crabmeat) (NNS ravioli))
+      (VP (VBP w)
+        (NP (NNP \/) (NNP Langostino) (NNP Sauce))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD was) (RB all)
+        (ADJP (JJ amazing))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN olive) (NN oil)
+      (CC and)
+      (NN sea) (NN salt))
+    (VP (VBD were)
+      (NP (DT a) (JJ great) (NN start)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN chocolate) (JJ french) (NN toast))
+    (VP (VBD was)
+      (ADJP (JJ delicious)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN tequila) (NN selection))
+    (VP (VBZ is)
+      (ADJP (JJ ridiculous)
+        (CC and)
+        (JJ amazing)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS empanadas))
+    (VP (VBD were)
+      (ADJP
+        (ADJP (JJ good))
+        (, ,)
+        (CC but)
+        (ADJP (NN nothing) (JJ special))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ Their) (NNP Wonton) (NNP Soup))
+    (VP (VBZ is)
+      (ADJP (JJ hands-down)
+        (SBAR
+          (S
+            (NP (DT the) (JJS best) (NN I))
+            (VP (VBP 've)
+              (ADVP (RB ever))
+              (VP (VBN had)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN fish))
+    (VP (VBD was)
+      (ADJP (JJ good)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN taste))
+      (PP (IN of)
+        (NP
+          (NP
+            (NP (NN everything))
+            (ADVP (RB though)))
+          (: ...)
+          (NP (DT The) (JJ rich) (NNP Mac)
+            (CC and)
+            (NNP Cheese)))))
+    (VP (VBZ is)
+      (ADJP (JJ wonderful)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Spicy) (NN tuna))
+      (CC and)
+      (NP (JJ crunchy) (NN roll)))
+    (VP (VBD were)
+      (ADJP (JJ good)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Tiramasu))
+    (VP (VBZ is)
+      (ADJP (JJ awesome)))))
+
+(ROOT
+  (S
+    (NP (PRP they))
+    (VP
+      (ADVP (RB somehow))
+      (VBN tasted)
+      (PP (IN like)
+        (NP (JJ herbal) (JJ creamy) (NN riceball))))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN potato) (NN texture))
+    (VP (VBD was)
+      (NP
+        (NP (NN kind))
+        (PP (IN of)
+          (NP (NN mushy)
+            (CC and)
+            (NN chalky)))))))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN pie))
+      (VP (VBD was)
+        (ADJP (JJ warm))))
+    (CC and)
+    (S
+      (S
+        (NP (DT the) (NN gelato))
+        (VP (VBD was)
+          (ADJP (RB intensely) (JJ flavored))))
+      (CC and)
+      (S
+        (NP (DT the) (JJ creme) (NN angalise))
+        (VP (VBD was)
+          (UCP
+            (ADJP (JJ light))
+            (CC and)
+            (RB not)
+            (ADJP (RB cloyingly) (JJ sweet))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (NNP The))
+    (VP (VBN steamed)
+      (S
+        (NP (NNP Shrimp)
+          (CC &)
+          (NNP Flounder))
+        (VP (SYM =)
+          (NP (NN kiss)))))
+    (X
+      (X (SYM \*))
+      (NP (NN delish)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN sauce))
+    (VP (VBZ is)
+      (ADJP (JJ nonexistent)))))
+
+(ROOT
+  (FRAG
+    (ADJP
+      (NP (DT the) (NN hazelnut))
+      (JJ brittle))
+    (ADJP (RB very) (JJ much))))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP$ Their) (JJ satay) (NN soup) (NN base))
+      (VP (VBZ is)
+        (ADJP (JJ superb))))
+    (CC and)
+    (S
+      (NP (DT the) (NN szechuan))
+      (ADVP (RB spicy))
+      (VP (VBZ is)
+        (ADJP (JJ good) (RB too)
+          (SBAR
+            (S
+              (NP (NNP !) (. !) (NNP Will))
+              (ADVP (RB definitely))
+              (VP (VBP come)
+                (ADVP (RB back))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NNP Foie) (NNP Gras))
+    (VP (VBD was)
+      (VP (VBG AMAZING)))))
+
+(ROOT
+  (S (CC And)
+    (NP (DT the) (NN food))
+    (ADVP (RB literally))
+    (VP (VBD made)
+      (S
+        (NP (PRP me))
+        (ADJP (JJ sick))))))
+
+(ROOT
+  (S
+    (NP (DT The) (VBG overlying) (NN cheese))
+    (VP (VBZ makes)
+      (NP (DT a) (JJ vegetarian) (NN dish) (NN taste))
+      (ADVP (RB meaty)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN side) (NNS dishes))
+    (VP (VBP are)
+      (ADJP (JJ good)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN soy) (NN sauce))
+    (VP (VBD was)
+      (NP (JJ super) (NN salty)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN salmon))
+    (VP (VBD was)
+      (ADJP (JJ fresh)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN bread))
+    (VP (VBD was)
+      (ADJP (JJ fresh)
+        (PP (IN on)
+          (NP (DT the) (NNP Pulled) (NNP Pork) (NN sandwich)))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN frosting))
+    (VP (VBD was) (RB not)
+      (ADJP (RB overly) (JJ sweet)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN portabella) (NN bolognese))
+    (VP (VBD was)
+      (ADJP (RB very) (JJ good)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN onion) (NNS rings))
+    (VP (VBP are)
+      (ADJP (JJ awful)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN pork) (NNS bellies))
+      (PP (IN with)
+        (NP (JJ preserved) (NNS veggies))))
+    (VP (VBD was)
+      (ADJP (JJ excellent)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NNS plates))
+    (VP (VBD were)
+      (ADJP (RB too) (RB damn) (JJ big)))))
+
+(ROOT
+  (S
+    (NP (PRP they))
+    (VP (VBD used)
+      (S
+        (VP (TO to)
+          (VP (VB make)
+            (NP (PRP$ my) (JJ favorite) (NNP Pad) (NNP Thai))))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN sashimi)
+      (CC and)
+      (NN sushi) (NN lunch) (NN special))
+    (VP (VBD was)
+      (ADVP (RB probably))
+      (NP
+        (NP (DT the) (JJS best)
+          (CC and)
+          (JJS most))
+        (SBAR
+          (S
+            (NP
+              (ADJP (RB reasonably) (VBN priced))
+              (NNS sushi)
+              (CC and)
+              (NNS sashimi))
+            (VP (VBP platter)
+              (SBAR
+                (S
+                  (NP (PRP I))
+                  (VP (VBP 've)
+                    (VP (VBN seen)
+                      (PP (IN on)
+                        (NP (PDT both) (DT the) (JJ West)
+                          (CC and)
+                          (JJ East) (NN coast))))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ Their) (JJ mashed) (NNS potatoes))
+    (VP (VBP are)
+      (ADJP (JJ amazing)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN kulfi))
+    (VP (VBD was)
+      (ADJP (RB pretty) (JJ standard)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Crema) (NN sandwich))
+    (VP (VBZ is)
+      (NP (PRP$ my) (JJ favorite) (NN sammich))
+      (ADVP (RB here)))))
+
+(ROOT
+  (S
+    (NP (NNP Home) (NNS fries))
+    (VP (VBD were)
+      (ADJP (JJ good)))))
+
+(ROOT
+  (S
+    (NP (PRP they))
+    (VP (VBP 're)
+      (ADJP (RB deep) (JJ fried)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBZ is)
+              (ADVP (RB clearly))
+              (SBAR
+                (WHADVP (WRB why))
+                (S
+                  (NP (PRP they))
+                  (VP (VBP 're)
+                    (ADJP (RB so) (JJ good))))))))))))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ green) (NN tea) (NN shake))
+    (VP (VBD was)
+      (ADVP (RB SO))
+      (ADJP (JJ good)))
+    (. !)))
+
+(ROOT
+  (S
+    (S
+      (NP (JJ grilled) (NNS calamari))
+      (VP (VBP w)
+        (NP (NN arugula))))
+    (: ...)
+    (S
+      (NP (DT the) (NN crab) (NN ravioli))
+      (VP (VBD was)
+        (ADJP (JJ awesome))))))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD ordered)
+        (NP
+          (NP (DT the) (NN Beef))
+          (CC and)
+          (NP (NNP Tendon) (NNP Pho) (NNP w) (NNP \/) (NNPS Summer) (NNP Rolls)))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (ADJP (JJ amazing))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN mac) (NN n) (POS '))
+      (NN cheese))
+    (VP (VBD was)
+      (ADJP (JJ OK)))))
+
+(ROOT
+  (NP
+    (S
+      (S
+        (NP (DT The) (NN game) (NN hen))
+        (VP (VBD was)
+          (ADJP (JJ good))))
+      (CC and)
+      (S
+        (NP (DT the) (NN portion))
+        (VP (VBD was)
+          (ADJP (RB very) (JJ generous)))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS tapas))
+    (VP (VBP are) (RB all)
+      (ADJP (RB really) (JJ good)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN chicken) (NN parmigana))
+    (VP
+      (ADVP (RB always))
+      (VBZ pleases))))
+
+(ROOT
+  (S
+    (NP (NN Steak) (NNS frites))
+    (VP (VBP are)
+      (ADJP (JJ great)))))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ red) (NN velvet) (NN cupcake))
+    (VP (VBD was)
+      (ADJP (JJ delicious)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN salad))
+    (VP (VBD was)
+      (ADJP (JJ light)
+        (CC and)
+        (JJ refreshing)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Blackened) (NNP Chicken) (NNS Tenders))
+    (VP (VBD were)
+      (VP (VBN meh)))))
+
+(ROOT
+  (S
+    (NP (DT the) (JJ side) (JJ sweet) (NN potato) (NN hash))
+    (VP (VBD was)
+      (ADJP (JJ amazing)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN pork))
+    (VP (VBD +)
+      (SBAR
+        (S
+          (NP (NN leek) (NNS dumplings))
+          (VP (VBD were)
+            (VP (VBG filling) (, ,)
+              (ADVP (RB salty))
+              (, ,)
+              (UCP
+                (ADJP (JJ flavorful))
+                (, ,)
+                (CC and)
+                (VP (VBD had)
+                  (NP
+                    (NP (DT the) (JJ perfect) (NN ratio))
+                    (PP (IN of)
+                      (NP (NN meat)
+                        (CC and)
+                        (NN vegetable))))
+                  (PP (TO to)
+                    (NP (NN dough))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ their) (NN lobster) (NNS ravioli))
+    (VP (VBD was)
+      (ADJP (JJ good)))))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP 've)
+      (ADVP (RB also))
+      (VP (VBN got)
+        (NP
+          (NP (DT a)
+            (ADJP (RB surprisingly) (JJ decent))
+            (NN selection))
+          (PP (IN of)
+            (NP (NNS beers))))))))
+
+(ROOT
+  (S
+    (NP (JJ Eggplant) (NN pizza))
+    (VP (VBD lacked)
+      (SBAR
+        (FRAG
+          (ADJP (JJ flavoring))
+          (. .))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN dish))
+    (VP (VBD was)
+      (VP (VBN comped)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ her) (NN salad))
+    (VP (VBD looked)
+      (ADJP (JJ good)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN beer) (NN list))
+    (VP (VBD was)
+      (ADJP (RB very) (JJ short)))))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD had)
+      (NP
+        (NP (JJ good) (NNS chips))
+        (CC and)
+        (NP (NN salsa))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN beef))
+    (VP (VBD was)
+      (ADJP (JJ good)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS toppings))
+    (VP (VBD were)
+      (VP (VBN piled)
+        (PP (IN on)
+          (ADVP (RB generously)))))))
+
+(ROOT
+  (S
+    (NP (DT the) (NNS mussels))
+    (VP (VBD were)
+      (ADJP (JJ small)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN duck))
+    (VP (VBD was)
+      (NP (JJ great))
+      (, ,)
+      (ADVP (RB however)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN burger))
+    (VP (VBD tasted)
+      (ADJP (JJ great)))))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ grilled) (NN chicken))
+    (VP (VBD was)
+      (UCP
+        (NP (NN tender))
+        (CC and)
+        (ADJP (RB well) (JJ seasoned))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN pesto))
+    (VP (VBZ is)
+      (ADJP (JJ delicious)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS chips))
+    (VP (VBP are)
+      (ADJP (RB rarely) (JJ stale)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN clam) (NN chowder))
+    (VP (VBD was)
+      (ADJP (JJ full)
+        (PP (IN of)
+          (NP (NNS clams)))))))
+
+(ROOT
+  (S
+    (NP (JJ fries) (JJ +) (NN cheese))
+    (VP (VBP are)
+      (NP (PRP$ my) (JJ new) (JJ favorite) (NN thing)))))
+
+(ROOT
+  (S
+    (NP (DT the) (JJ bacon-wrapped) (NNS dates))
+    (VP (VBD were)
+      (ADJP (JJ phenomenal)))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD loved)
+      (NP (DT the) (NN carrot\/ginger) (NN puree)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN vegetarian) (NN broth))
+    (VP (VBZ is)
+      (ADJP (RB pretty) (JJ good)))))
+
+(ROOT
+  (FRAG
+    (ADVP (RB then))
+    (NP
+      (NP (PRP$ my) (NN steak))
+      (SBAR
+        (S
+          (VP (VBD was)
+            (VP (VBN overcooked))))))))
+
+(ROOT
+  (S
+    (NP (DT the) (JJ garlic) (NNS chives))
+    (VP (VBP are)
+      (ADJP
+        (ADJP (RB slightly) (JJ tender))
+        (CC but)
+        (ADJP (RB not) (JJ crunchy)))
+      (PP (IN like)
+        (NP (JJ raw) (NN celery))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS ingredients))
+    (VP (VBD were) (RB all)
+      (ADJP (JJ fresh)))))
+
+(ROOT
+  (S
+    (NP (JJR More) (JJ conventional) (NNS pizzas))
+    (VP (VBP are)
+      (ADJP (JJ amazing)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN grano))
+      (PP (IN in)
+        (NP (DT the) (JJ scallops) (NN dish))))
+    (VP (VBD was)
+      (ADJP (JJ delicious)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ hush) (NNS puppies) (NN appetizer))
+    (VP (VBD was)
+      (ADJP (JJ good)
+        (PP (IN as)
+          (ADVP (RB well)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN beet) (NN salad))
+    (VP (VBD was)
+      (ADJP (JJ so-so)
+        (PP (IN for)
+          (NP (PRP$ my) (NN girlfriend)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ fried) (NN zuccinhi))
+    (VP (VBD was)
+      (ADJP (JJ good)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN sausage))
+    (VP (VBD was)
+      (ADJP (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ squid) (NN appetizer))
+    (VP (VBD was)
+      (ADJP (JJ eh)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN cream) (NN cheese) (NN frosting))
+    (VP (VBD was)
+      (ADJP (JJ good)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS items))
+      (ADVP (DT all)))
+    (VP (VBD looked)
+      (ADJP (JJ amazing)))))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ green) (NNS beans))
+    (VP (VBD were)
+      (UCP
+        (ADJP (JJ buttery))
+        (CC and)
+        (VP
+          (ADVP (RB well))
+          (VBN cooked))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NNS toppings))
+    (VP (VBP are)
+      (ADVP (RB always))
+      (ADJP (JJ fresh)
+        (CC and)
+        (JJ plentiful)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN eggplant) (NNS dishes))
+    (VP (VBP are) (DT both)
+      (ADJP (JJ amazing)))
+    (. .)))
+
+(ROOT
+  (SINV
+    (VP (VBZ Olives))
+    (NP (NNP Tres) (NNP Quesos) (NNP Tuna) (NNP Tartare) (NNP Gambas) (NNP al) (NNP Ajillo) (NNP Short) (NNP Ribs) (NNP Hangar) (NNP Steak) (NNP Kobe) (NNP sliders) (NNP Patatas) (NNP Bravas) (NNP Maiz) (NNP Asado))
+    (SBAR
+      (WHNP
+        (NP (DT All))
+        (PP (IN in)
+          (NP
+            (NP (DT all))
+            (, ,)
+            (NP (DT the) (JJS best) (NN thing)))))
+      (S
+        (NP (PRP we))
+        (VP (VBD ate)
+          (SBAR
+            (S
+              (VP (VBD were)
+                (NP
+                  (NP (DT the) (NNS olives))
+                  (CC and)
+                  (NP (DT the) (NN cheese)))))))))))
+
+(ROOT
+  (S
+    (NP (PRP One))
+    (VP (VBD was)
+      (NP
+        (NP (DT a) (JJ coconut) (NN chocolate) (NN chip))
+        (, ,)
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBD was)
+              (ADJP (JJ perfect)))))))))
+
+(ROOT
+  (S
+    (NP (EX There))
+    (VP (VBP lentil)
+      (SBAR
+        (S
+          (NP (NN soup)
+            (CC and)
+            (NNS salads))
+          (VP (VBP are)
+            (ADVP (RB probably))
+            (NP
+              (NP (DT the) (JJS best))
+              (SBAR
+                (S
+                  (NP (PRP I))
+                  (VP (VBP 've)
+                    (ADVP (RB ever))
+                    (VP (VBN had))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN sausage) (NN pizza))
+    (VP (VBZ is) (RB not)
+      (ADJP
+        (NP (DT a) (RB bit))
+        (JJ greasy)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN hollandaise))
+    (VP (VBD was)
+      (ADJP (RB too) (JJ mustardy)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN meat))
+    (VP (VBZ is)
+      (NP (NN tender)
+        (CC and)
+        (NN juicy)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN texture))
+    (VP (VBD was)
+      (ADJP (RB completely) (JJ inconsistent)))))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ noodle) (NN dish))
+    (VP (VBD was)
+      (ADJP (JJ spectacular)))
+    (. .)))
+
+(ROOT
+  (S (CC And)
+    (NP (DT the) (NN banana) (NN pudding))
+    (VP (VBD was)
+      (ADJP (JJ mediocre)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (JJ garlic) (NNS hummus))
+    (VP (VBD was)
+      (ADJP (RB really) (JJ good)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN herb) (NN infusion))
+    (VP (VBD was)
+      (ADJP
+        (NP (DT a) (RB bit))
+        (JJ overpowering)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS mains))
+    (VP (VBP are)
+      (ADJP (JJ average)))))
+
+(ROOT
+  (S
+    (NP (PRP You))
+    (VP (VBP 've)
+      (VP (VBN had)
+        (NP (JJR better) (JJ Mexican) (NN food))))))
+
+(ROOT
+  (S
+    (NP (DT the) (NNS drinks))
+    (VP (VBD were)
+      (ADJP (JJ awesome)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Grilled) (NNP Scrod))
+      (PP (IN with)
+        (NP
+          (NP (NNP String) (NNP Beans))
+          (CC and)
+          (NP
+            (NP (NNP Brown) (NNP Rice))
+            (NP (PRP$ My) (NN husband))))))
+    (ADVP (RB also))
+    (VP (VBD ordered)
+      (NP
+        (NP (JJ grilled) (NN scrod))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD came)
+              (SBAR
+                (S
+                  (NP (NN undercooked)
+                    (CC and)
+                    (NN string) (NNS beans))
+                  (VP (VBD was)
+                    (ADJP (JJ bland))))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ fried) (NNP Tofu))
+    (VP (VBD was)
+      (ADJP (RB very) (JJ enjoyable)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NNS eggs))
+    (VP (VBD were)
+      (VP (VBN overcooked)))))
+
+(ROOT
+  (S
+    (NP (DT the) (JJ spicy) (NN tuna))
+    (VP (VBD was)
+      (ADJP (JJ delicious)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NNS wings))
+    (VP (VBD were)
+      (ADJP (RB very) (JJ sour)))))
+
+(ROOT
+  (FRAG
+    (FRAG (CC And)
+      (NP (DT the) (NN steak)))
+    (: ...)
+    (FRAG
+      (ADJP (RB so) (JJ good))
+      (. .))))
+
+(ROOT
+  (SINV
+    (VP (VBP amuse)
+      (ADJP (JJ bouche)
+        (PP (TO to)
+          (NP
+            (NP (DT the) (JJ unbelievable) (NN food))
+            (: -)))))
+    (NP (PRP$ my) (NN tender))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS empanadas))
+    (VP (VBP are)
+      (ADJP (JJ great)))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP
+      (ADVP (RB highly))
+      (VBP recommend)
+      (NP (DT the) (NNS scallops))
+      (PP (IN in)
+        (NP (NN saffron) (NN cream))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN pho))
+    (VP (VBZ has)
+      (NP
+        (NP (JJR less) (NN meat))
+        (, ,)
+        (NP (JJR more) (NNS noodles))))))
+
+(ROOT
+  (NP
+    (S
+      (S
+        (NP (DT the) (NNS fillings))
+        (VP (VBD were)
+          (ADJP (RB really) (JJ flavorful))))
+      (CC and)
+      (S
+        (NP (DT the) (NNS portions))
+        (VP (VBP are)
+          (ADJP (JJ large)
+            (CC and)
+            (JJ inexpensive)))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN shrimp))
+      (CC &)
+      (NP (NNS grits)))
+    (VP (VBD were)
+      (ADJP (RB very) (JJ rich)
+        (CC and)
+        (JJ tasty)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN pasta))
+    (VP (VBZ is)
+      (VP (VBG al)
+        (NP (JJ dente) (NN perfection))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ grilled) (NN corn))
+      (PP (IN on)
+        (NP (DT the) (NN cob))))
+    (VP (VBZ is)
+      (ADJP (JJ addictive)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN guacamole))
+    (VP (VBD was)
+      (ADJP (JJ uninspired)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN spring) (NNS rolls))
+    (VP (VBD were)
+      (ADJP (JJ fried)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN portion) (NNS sizes))
+    (VP (VBD were)
+      (ADJP (JJ generous)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN seafood))
+      (CC and)
+      (NP (NNS meats)))
+    (VP (VBD were)
+      (ADJP (RB well) (JJ prepared)
+        (CC and)
+        (JJ fresh)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Chicken) (NNS enchiladas))
+    (VP (VBP are)
+      (ADJP (JJ yummy)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP$ my) (NN Reuben))
+    (VP (VBD was)
+      (ADJP
+        (NP (DT a) (RB little))
+        (JJ dry)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN soup))
+    (VP (VBD was)
+      (ADJP (JJ fabulous)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN slaw))
+    (VP (VBD was)
+      (ADJP (JJ sweet)
+        (CC and)
+        (JJ flavorful)))))
+
+(ROOT
+  (S
+    (NP (PRP$ Their) (NNS hummus))
+    (VP (VBZ is)
+      (ADJP (JJ divine)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS plantains))
+    (VP
+      (VP (VBD were)
+        (ADJP (JJ good)))
+      (CC but)
+      (VP (VBD seemed)
+        (ADJP
+          (NP (DT a) (RB little))
+          (JJ bland))))))
+
+(ROOT
+  (S
+    (NP (NNS Figs))
+    (VP (VBZ has)
+      (NP (DT some)
+        (ADJP (RB very) (JJ interesting)
+          (CC and)
+          (JJ delicious))
+        (NNS toppings)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS chips))
+    (VP (VBP are)
+      (ADVP (RB always))
+      (ADJP (JJ toasty)
+        (CC and)
+        (JJ warm)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ Our) (NNS appetizers))
+    (VP (VBD included)
+      (NP
+        (NP (DT some)
+          (ADJP (RB pretty) (JJ knock-out))
+          (NN miso) (NN soup))
+        (CC and)
+        (NP
+          (ADJP (JJ delicious))
+          (NNS shumai))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN bread))
+    (VP (VBD was)
+      (ADJP (JJ bland)
+        (CC and)
+        (JJ cheap)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP it))
+    (VP (VBD was)
+      (UCP
+        (ADJP (JJ delicious))
+        (: :)
+        (NP
+          (NP (JJ fresh) (NN chewy) (NN bagel))
+          (, ,)
+          (NP (NN cream) (NN cheese))
+          (, ,)
+          (NP (NNS capers))
+          (, ,)
+          (NP (JJ red) (NN onion))
+          (, ,)
+          (NP (NN tomato))
+          (CC and)
+          (NP (DT some) (JJ delicious) (JJ smoked) (NN salmon)))))))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ crispy) (NN leg))
+    (VP (VBD was)
+      (ADJP (JJ good)))))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NNS tamales))
+      (VP (VBD were)
+        (ADVP (RB yummy))))
+    (CC and)
+    (S
+      (NP (PRP$ my) (NN husband))
+      (VP (VBD loved)
+        (NP (PRP$ his) (JJ chile) (NN relleno))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (JJ sharp) (NN parmesian))
+      (PP (IN with)
+        (NP (NN honey)
+          (CC and)
+          (NN crustini))))
+    (VP (VBD were)
+      (ADVP (RB also))
+      (ADJP (JJ good)))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD enjoyed)
+      (NP
+        (NP (DT the) (NN flavor))
+        (PP (IN of)
+          (NP (DT the) (NN beef)))))))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ fried) (NNP Yucca))
+    (VP
+      (VP (VBD was)
+        (ADJP (RB pretty) (JJ good)))
+      (CC and)
+      (VP (VBD had)
+        (S
+          (NP
+            (NP (DT a) (JJ good) (NN crispy) (NN texture))
+            (CC and)
+            (NP (JJ nice) (NN sauce)))
+          (VP (TO to)
+            (VP (VB accompany)
+              (NP (PRP it)))))))))
+
+(ROOT
+  (S
+    (NP (NNS dishes))
+    (VP (VBP are)
+      (ADJP (RB particularly) (JJ excellent)))))
+
+(ROOT
+  (S
+    (NP (PRP$ their) (NNS sandwiches))
+    (VP (VBP are)
+      (ADJP (DT both) (JJ unique)
+        (CC and)
+        (JJ delicious)))))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ portobello) (NN mushroom) (NN pizza))
+    (VP (VBD had)
+      (NP (DT a) (JJ nice)
+        (ADJP (JJ garlic)
+          (CC and)
+          (JJ olive))
+        (NN oil) (NN flavor)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ french) (NN toast))
+    (VP (VBD was)
+      (ADJP
+        (ADJP
+          (NP (DT a) (RB little))
+          (JJ different))
+        (CC and)
+        (ADJP (RB really) (JJ delicious))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN bread))
+    (VP (VBD was)
+      (ADJP (RB really) (JJ good)
+        (CC and)
+        (JJ different)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBP 've)
+      (VP (VBN got)
+        (NP
+          (NP (DT a) (JJ wide) (NN selection))
+          (, ,)
+          (PP (VBG including)
+            (NP (NNP Boston) (NN cream) (NN pie) (, ,) (NN fruit)
+              (CC and)
+              (NN chocolate) (NNS tartes) (, ,) (NNS cupcakes)
+              (CC and)
+              (NNS cookies))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN beer) (NN selection))
+    (VP (VBD was)
+      (ADJP (JJ good)))))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ char) (NNP Kway) (NN teow))
+    (VP (VBZ is)
+      (ADVP (RB strictly))
+      (ADJP (JJ mediocre)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP$ My) (NN choice))
+      (VP (VBZ is)
+        (ADVP (RB always))
+        (NP (DT the) (JJ stuffed) (NN eggplant))))
+    (: --)
+    (S
+      (NP (PRP it))
+      (VP (VBZ is)
+        (ADJP (JJ amazing))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (RB Even) (DT the) (NNS chips))
+    (VP (VBD were)
+      (ADJP (JJ amazing)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS chips)
+      (CC and)
+      (NN salsa))
+    (VP (VBD were)
+      (ADJP (JJ tasty)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN sangria))
+    (VP (VBD was)
+      (ADVP (RB SO))
+      (ADJP (JJ good)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN lasagna))
+    (VP (VBD consisted)
+      (PP (IN of)
+        (NP (JJ plantains) (NN cover)))
+      (PP (IN with)
+        (NP (NN cheese))))))
+
+(ROOT
+  (S
+    (NP (NNP Cobb) (NNP Salad))
+    (VP (VBZ is)
+      (ADVP (RB also))
+      (ADJP (JJ good)))))
+
+(ROOT
+  (S
+    (SQ
+      (VP (VB ANd)
+        (NP (PRP$ their) (NN chocolate) (NN chip) (NN cookie)))
+      (. ?))
+    (. ?)
+    (ADVP (RB Pretty) (RB good))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBZ 's)
+      (ADJP (JJ softish)))
+    (: ...)))
+
+(ROOT
+  (S
+    (NP (NN Someone))
+    (VP (VBD ordered)
+      (NP
+        (NP (DT the) (NN gazpacho))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBD was)
+              (ADVP (NN nothing))
+              (NP
+                (NP
+                  (QP (JJR more) (IN than) (CD watered)))
+                (PP (IN down)
+                  (NP (NN salsa)))))))))
+    (. .)))
+
+(ROOT
+  (NP
+    (NP (PRP$ my) (NN garlic))
+    (NP (JJ strong))))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (DT the) (NN yogurt))
+      (ADJP (JJ delicious)
+        (CC and)
+        (JJ cheapo)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN salmon) (NN sashimi))
+    (VP (VBD was)
+      (NP
+        (NP (DT the) (JJS best))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP 've)
+              (ADVP (RB ever))
+              (VP (VBN had)))))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS chips))
+    (VP (VBP are)
+      (ADJP (JJ dece)))
+    (. .)))
+
+(ROOT
+  (VP (VBN accompanied)
+    (SBAR
+      (S
+        (NP (DT the) (NN fish\/crab) (NN dish))
+        (VP (VBD was)
+          (ADJP (JJ dry)))))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN skin))
+    (VP (VBD was)
+      (VP (VBG pan)
+        (NP (JJ fried) (NN crispy))))))
+
+(ROOT
+  (NP
+    (NP (NNP -RRB-) (NNP The))
+    (VP (VBN steamed)
+      (S
+        (NP (NNP Shrimp)
+          (CC &)
+          (NNP Flounder))
+        (VP (SYM =)
+          (NP (NN kiss)))))
+    (X
+      (X (SYM \*))
+      (NP (NN delish)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN medium) (NN salsa))
+    (VP (VBD was)
+      (ADJP (RB pretty) (JJ hot)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN catfish))
+    (VP (VBD was)
+      (ADVP (RB yummy)))))
+
+(ROOT
+  (S
+    (NP (DT the) (JJ bolognaise) (NN sauce))
+    (VP (VBD was)
+      (ADJP (JJ good)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NNS platters))
+    (VP (VBP are)
+      (ADVP (RB generously))
+      (VP (VBN portioned)))))
+
+(ROOT
+  (FRAG
+    (NP
+      (NP (NN cake))
+      (ADJP (RB very) (JJ generous)
+        (CC and)
+        (JJ tasty)))
+    (ADJP (JJ icing))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN banana) (NN split))
+    (VP (VBD was)
+      (PP (IN unlike)
+        (NP
+          (NP (DT any))
+          (SBAR
+            (S
+              (NP (PRP I))
+              (VP (VBP 've)
+                (ADVP (RB ever))
+                (VP (VBN seen))))))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN quesadilla) (NN appetizer))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (RB exceptionally) (JJ good))
+        (CC and)
+        (ADJP (RB exceptionally) (JJ small)))
+      (PP (IN in)
+        (NP (NN portion))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN clam) (NN chowder))
+    (VP (VBD was)
+      (ADJP (JJ watery)
+        (CC and)
+        (JJ burnt)))))
+
+(ROOT
+  (NP
+    (NP (DT the) (JJ Vietnamese) (NN spring) (NNS rolls))
+    (PRN (-LRB- -LRB-)
+      (NP (NN yum))
+      (-RRB- -RRB-))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Chowder))
+    (VP (VBD was)
+      (ADJP (JJ good)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN egg))
+    (VP (VBD seemed)
+      (ADJP (JJ fake)))))
+
+(ROOT
+  (FRAG
+    (ADVP (RB honestly))
+    (NP
+      (NP (DT the) (NN clam) (NN chowder))
+      (SBAR
+        (S
+          (VP (VBD was)
+            (ADJP (JJ good))
+            (PP
+              (ADVP (RB everywhere))
+              (IN in)
+              (NP (NNP Boston)))))))))
+
+(ROOT
+  (S (CC And)
+    (S
+      (NP (DT the))
+      (VP (VBD rose)
+        (SBAR
+          (S
+            (NP (NN lemonade))
+            (VP (VBD was)
+              (ADVP (RB exactly))
+              (NP (DT that)))))))
+    (: ...)
+    (VP (VBD rose)
+      (NP (JJ flavored) (NN lemonade)))
+    (. !)))
+
+(ROOT
+  (S
+    (ADVP (RB Also))
+    (NP (DT the) (NN pasta))
+    (VP (VBD was)
+      (ADJP (RB surprisingly) (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN banana))
+    (VP (VBD reminded)
+      (NP (PRP me))
+      (PP
+        (ADVP (RB almost))
+        (IN of)
+        (NP (DT the) (JJ stuffed) (NN banana) (JJ french) (NN toast)))
+      (PP (IN at)
+        (NP (NNP Masa))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN granola) (NN con) (NN leche))
+    (VP (VBZ is)
+      (ADJP (RB pretty) (JJ good)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN tartar))
+    (VP (VBD tasted)
+      (ADJP (JJ homemade)
+        (CC and)
+        (JJ creamy)))))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (ADVP (RB really))
+      (VP (VBD enjoyed)
+        (NP (DT the) (NN tomato) (NN salad))))
+    (: -)
+    (S
+      (NP (DT the) (NN cheese) (, ,) (NN tomato)
+        (CC and)
+        (NN basil) (NN oil))
+      (VP (VBD were)
+        (VP (VBN paired)
+          (ADVP (RB perfectly)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN bread))
+      (PP (IN on)
+        (NP (DT both) (NNS sandwiches))))
+    (VP (VBD were) (RB all)
+      (ADJP (JJ toasty)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Oreo) (NNP Cookie) (NNP Frappe))
+    (VP (VBZ is)
+      (ADJP (RB insanely) (JJ delicious)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN fondue))
+    (VP (VBD was)
+      (ADJP (JJ delicious)))))
+
+(ROOT
+  (S
+    (NP (DT Both) (NNS dishes))
+    (VP (VBD were)
+      (ADJP
+        (ADJP (JJ excellent))
+        (CC and)
+        (ADJP (RB highly) (JJ recommended))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS portions))
+    (VP (VBP are)
+      (ADJP (JJ huge)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN salad))
+    (VP (VBD was)
+      (ADJP (JJ lovely)
+        (CC and)
+        (JJ light)))))
+
+(ROOT
+  (FRAG (CC And)
+    (NP
+      (NP (DT the) (NN cake))
+      (: ...)
+      (NP
+        (NP (JJ good) (NN flavor))
+        (PP (IN but)
+          (ADJP
+            (NP (DT a) (RB bit))
+            (JJ dry)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Tofu))
+    (VP (VBD was)
+      (VP (VBN fried)
+        (ADVP (RB perfectly))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ creamy) (NN slaw))
+    (VP (VBD was)
+      (ADVP (RB just))
+      (NP
+        (NP (DT that))
+        (: -)
+        (ADJP (JJ creamy)
+          (CC and)
+          (JJ delicious))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ My) (NN friend) (POS 's))
+      (NN potato)
+      (CC and)
+      (NN spinach) (NN dish))
+    (VP (VBD had)
+      (NP (DT some) (JJ Indian) (NNS influences)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN chicken))
+    (VP (VBD was)
+      (ADVP (RB clearly))
+      (ADJP (RB very) (JJ fresh)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NNP Tom) (NNP Yum))
+    (VP (VBZ is)
+      (ADJP (JJ good))
+      (, ,)
+      (SBAR (IN as)
+        (S
+          (VP (VBP are)
+            (NP
+              (NP (JJS most))
+              (PP (IN of)
+                (NP
+                  (NP (DT the) (JJ noodle) (NNS dishes))
+                  (PRN (-LRB- -LRB-)
+                    (NP
+                      (NP (NNP Pad) (NNP Thai))
+                      (, ,)
+                      (NP (NNP Pad) (NNP Woon) (NNP Sen))
+                      (, ,)
+                      (NP (NNP Pad) (NNP See) (NNP Eew)))
+                    (-RRB- -RRB-)))))))))))
+
+(ROOT
+  (NP
+    (NP (DT The) (NNP Rachel))
+    (: -)
+    (NP (NN sooo) (NN good))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN bottom))
+      (PP (IN of)
+        (NP (DT the) (NN crust))))
+    (VP (VBD had)
+      (VP (VBN burnt)
+        (NP (NN cornstarch) (NNS bits))
+        (PP (IN on)
+          (NP (DT the) (NNS edges)))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN milk) (NN pudding))
+    (VP (VBD was)
+      (ADJP (JJ preferable)
+        (PP (IN over)
+          (NP (DT the) (NN baklava)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN ham))
+    (VP (VBD was)
+      (ADJP (JJ GREAT)))
+    (. !)))
+
+(ROOT
+  (X (DT The)
+    (ADJP
+      (NP (JJ small) (NNS plates))
+      (JJ affordable))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN mushroom) (NN risotto))
+    (VP (VBD was)
+      (NP
+        (NP (NN kind))
+        (PP (IN of)
+          (NP (NNP watery)))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN potato) (NNS pancakes))
+    (VP (VBD were)
+      (ADVP (RB also))
+      (ADJP (RB very) (JJ good)
+        (PP (IN with)
+          (NP (DT the) (JJ smoked) (NN salmon)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ red) (NN velvet) (NN cake))
+    (VP (VBD was)
+      (ADJP (JJ amazing)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (JJ braised) (NN eggplant))
+    (VP (VBD was)
+      (ADJP (JJ delicious)))))
+
+(ROOT
+  (S
+    (NP (NNP Berry) (NNP Line))
+    (VP (VBZ has)
+      (NP (DT the)
+        (ADJP (JJS best) (JJ plain))
+        (NN yogurt)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS oysters))
+    (VP (VBP are)
+      (ADJP (JJ great)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN masa))
+    (VP (VBD was)
+      (ADJP
+        (NP (DT a) (RB little))
+        (JJ soggy)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN xlb))
+      (PP (IN at)
+        (NP (NNP Gourmet) (NNP Dumpling) (NNP House))))
+    (VP (VBD were)
+      (ADJP (JJ good)))))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (ADJP (JJ good))
+      (, ,)
+      (S
+        (NP
+          (NP
+            (NP (NN ok))
+            (. ?)
+            (NP (NNP !))
+            (-RRB- -RRB-))
+          (SBAR
+            (S
+              (NP (PRP They))
+              (VP (VBP do)
+                (VP (VB have)
+                  (NP
+                    (NP (DT a) (JJ gluten-free) (NN menu))
+                    (SBAR
+                      (WHNP
+                        (ADJP (FW !) (. !))
+                        (NNS Brendan))
+                      (S
+                        (VP (VBD got)
+                          (NP (DT the) (NNP Braised) (NNP Pork) (NNP Shoulder) (NNP entree)))))))))))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN duck) (NN confit))
+    (VP (VBZ is)
+      (NP (NN faboo)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN brisket))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBD ordered)))))
+    (VP (VBD was)
+      (ADJP (JJ incredible)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNS fries))
+      (CC and)
+      (NP (NN gravy)))
+    (VP (VBD were)
+      (ADJP (JJ amazing)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS rolls))
+    (VP (VBD were)
+      (ADJP (JJ huge)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Delicious) (NN meat))
+      (, ,)
+      (ADJP (JJ delicious) (JJ veggies)
+        (CC and)
+        (JJ delicious)))
+    (VP (VBP broth))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN mac)
+      (CC and)
+      (NN cheese))
+    (VP (VBZ is)
+      (ADJP (JJ tasty)))))
+
+(ROOT
+  (S
+    (S
+      (FRAG
+        (ADVP (RB better) (RB enchiladas) (. .))
+        (. .))
+      (NP (NNS tortillas))
+      (VP (VBP are)
+        (ADJP (JJ good))))
+    (: :)
+    (S
+      (NP (NNP -RRB-))
+      (VP (VBD were)
+        (PP (RB all)
+          (FRAG
+            (ADJP (JJ full) (. .))
+            (. .)))
+        (ADJP
+          (ADVP (IN over) (DT all))
+          (JJ good))))))
+
+(ROOT
+  (NP
+    (NP (NNP -RRB-) (NNP fried))
+    (NP
+      (NP (JJ red) (NN snapper)
+        (CC and)
+        (JJ super) (NN delicious) (NN shrimp))
+      (CC &)
+      (NP (NNS mussels)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN mousse))
+    (VP (VBD was)
+      (ADJP (RB almost) (RB too) (JJ rich)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP Seared) (NNP Tuna))
+      (ADVP (RB really)))
+    (VP (VBZ is) (RB n't)
+      (NP (NN tuna) (NN tartare)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Tonight) (POS 's))
+      (NN pasta))
+    (VP (VBD was)
+      (NP (NNS gnocchi)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN beef) (NN broth))
+    (VP (VBD was)
+      (ADJP (JJ tasteless)
+        (CC and)
+        (JJ dull)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN shrimp))
+    (VP (VBD were)
+      (VP (VBN cooked)
+        (ADJP (RB perfectly) (, ,) (JJ tender)
+          (CC and)
+          (JJ sweet))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN spoonbread))
+      (SBAR
+        (S
+          (NP (PRP it))
+          (VP (VBD came)
+            (PP (IN with))))))
+    (VP (VBD was)
+      (ADJP (JJ tasty)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ my) (NNS girls) (NN Mac)
+      (CC and)
+      (NN cheese))
+    (VP
+      (VP (VBD was)
+        (ADJP (JJ awesome)))
+      (: ...)
+      (NP
+        (NP (NNP Lots))
+        (PP (IN of)
+          (NP (NN cheese) (, ,) (NN pancetta)
+            (CC and)
+            (NNS peas)))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN menu))
+      (PP (IN of)
+        (NP (NNS sandwiches))))
+    (VP (VBD sounded)
+      (ADJP (JJ amazing)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN sauce))
+    (VP (VBD was)
+      (ADJP (RB perfectly) (JJ spicey)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS spices))
+    (VP (VBD accompanied)
+      (NP (DT the) (NN cauliflower))
+      (ADVP (RB quite) (RB well)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ sliced) (NN sirloin))
+      (PP (IN with)
+        (NP (NNS artichokes))))
+    (VP (VBD were)
+      (ADJP (JJ garlicky)
+        (CC and)
+        (JJ good)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Malaysian) (NN something))
+      (PP (CC but)
+        (NP (PRP it))))
+    (VP (VBD was)
+      (ADJP (JJ good)))))
+
+(ROOT
+  (S
+    (NP (DT the) (JJ black) (NN cookie) (NN part))
+    (VP (VBD tasted)
+      (ADJP (JJ burnt)))))
+
+(ROOT
+  (S
+    (NP (PDT All) (DT the) (JJ vermicelli) (NNS dishes))
+    (VP (VBP are)
+      (ADJP (JJ phenomenal)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNS pieces))
+      (PP (IN of)
+        (NP (NN fish))))
+    (VP (VBD kept)
+      (PP (IN on)
+        (NP (VBG falling) (NN off\/out))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN pita))
+    (VP (VBD was)
+      (ADVP (IN beyond))
+      (ADJP (JJ dry)
+        (CC and)
+        (JJ tasted))
+      (PP (IN like)
+        (NP (NN cardboard))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VB Nice)
+      (NP
+        (NP
+          (ADJP
+            (ADJP (RB citrusy) (JJ bouquet))
+            (CC and)
+            (ADJP (RBS most) (JJ fruity)))
+          (NN burst))
+        (PP (IN of)
+          (NP (NN flavor)))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS pizzas))
+    (VP (VBP are)
+      (ADJP (JJ delicious))
+      (, ,)
+      (PP (IN with)
+        (NP
+          (NP (JJ soft) (NN mozzarella))
+          (, ,)
+          (NP (JJ fresh) (NNS sauces))
+          (, ,)
+          (CC and)
+          (NP (DT a) (JJ toasty) (JJ crispy-bottomed) (NN crust)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN roast) (NN duck))
+    (VP (VBZ is)
+      (ADJP (RB pretty) (JJ tasty)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN sauce))
+    (VP (VBD tasted)
+      (NP
+        (QP (JJR more) (IN like) (CD lemon)))
+      (PP (IN than)
+        (NP (NN whiskey))))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN lasagna))
+    (VP (VBD was)
+      (ADJP (RB really) (JJ good)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS ingredients))
+    (VP (VBP are)
+      (ADJP (JJ fresh)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NNP Salmon))
+      (SBAR (IN that)
+        (S
+          (NP (PRP I))
+          (VP (VBD ordered)))))
+    (VP (VBD was)
+      (ADJP (JJ delicious)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN gravy))
+    (VP (VBD was)
+      (ADJP
+        (NP (DT a) (RB little))
+        (JJ salty)))))
+
+(ROOT
+  (NP
+    (NP (DT the) (NN honey) (NN wine))
+    (: -)
+    (NP (NN pass))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN crab) (NN cake))
+    (VP (VBD was)
+      (ADJP (RB amazingly) (JJ good)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN lobster) (NN miso))
+    (VP (VBZ is)
+      (ADJP (JJ TASTEY)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN tuna) (NN special))
+      (PP (IN over)
+        (NP (NN cheese) (NNS grits))))
+    (VP (VBD was)
+      (ADJP (JJ excellent)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN house) (NN salad))
+    (VP (VBZ is)
+      (ADJP (JJ amazing)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN tripe))
+    (VP (VBD was)
+      (ADJP (JJ tripey)
+        (CC and)
+        (JJ stomachy)))))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD tried)
+        (NP
+          (NP (CD one))
+          (PP (IN of)
+            (NP
+              (NP (NNP Sara) (POS 's))
+              (JJ spicy) (NN tuna))))))
+    (, ,)
+    (NP (PRP it))
+    (VP (VBD was)
+      (ADJP (JJ excellent)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NN meat)
+      (CC and)
+      (NN pork) (NNS dumplings))
+    (VP (VBD were)
+      (ADJP (JJ okay)))))
+
+(ROOT
+  (UCP
+    (NP (DT The) (JJ seared) (NN salmon))
+    (CC and)
+    (S
+      (VP (VBD pulled)
+        (SBAR
+          (S
+            (NP (JJ lamb) (NN shank) (NN stew))
+            (VP (VBD were)
+              (ADJP (RB very) (JJ good)))))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN drink) (NNS prices))
+    (VP (VBP are)
+      (ADJP (RB SOOO) (JJ reasonable)))))
+
+(ROOT
+  (FRAG
+    (S
+      (NP (DT The) (NNS pizzas))
+      (ADVP (RB here))
+      (VP (VBP are)
+        (ADJP (JJ fresh))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN wine))
+    (VP (VBD was)
+      (ADJP (RB reasonably) (VBN priced)))))
+
+(ROOT
+  (S
+    (NP (NN Pork) (NNS chops))
+    (VP (VBP taste)
+      (ADJP (JJ goooooood)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN fish))
+    (VP (VBZ has)
+      (ADVP (RB always))
+      (VP (VBN been)
+        (ADJP (JJ fresh)
+          (CC and)
+          (JJ tasty))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ panko-crusted) (NN cod))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBD had)
+            (PP (IN for)
+              (NP (PRP$ my) (NN entree)))))))
+    (VP (VBD was)
+      (NP (NN tender)
+        (CC and)
+        (NN well-made)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ tamale) (NN stil))
+    (VP (VBZ tastes)
+      (ADJP (RB so) (JJ yummy)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN rice))
+    (VP (VBD tasted)
+      (PP (IN like)
+        (NP (DT the) (NNP New) (NNP Balance) (NN outlet) (NN store))))
+    (. !)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP Sultan) (POS 's))
+      (NNP Delight))
+    (VP (VBD was)
+      (ADJP (JJ incredible)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN bread))
+    (VP (VBD was)
+      (NP (NN sooo) (NN crunchy)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN scallion) (NN pancake))
+    (VP (VBD was)
+      (ADJP (JJ enormous)))))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD got)
+        (NP
+          (NP (DT the) (NN lobster) (NN ravioli))
+          (CC and)
+          (NP (DT the) (NN clam) (NN chowder)))))
+    (CC and)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (ADJP (RB so) (JJ great))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN pizza))
+    (VP (VBD was)
+      (VP (VBN made)
+        (PP (IN with)
+          (NP (JJ fresh) (NNS ingredients)))
+        (PP (IN with)
+          (NP (JJ great) (NN flavor)))))))
+
+(ROOT
+  (S
+    (NP (DT the) (NNS salads)
+      (CC and)
+      (NNS soups))
+    (VP (VBP are)
+      (ADVP (RB always))
+      (NP (NN gourmet) (NN quality)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN gumbo))
+    (VP (VBD was)
+      (NP (NN ok) (, ,) (NN nothing) (NN special)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS chips)
+      (CC and)
+      (NN salsa))
+    (VP (VBP are)
+      (ADJP (JJ sublime)))))
+
+(ROOT
+  (S
+    (S
+      (VP (VBN Ordered)
+        (NP (DT the) (JJ spicy) (NN tuna)
+          (CC and)
+          (NN california) (NN roll))))
+    (: --)
+    (S
+      (NP (PRP they))
+      (VP (VBD were)
+        (ADJP (JJ amazing))))
+    (. !)))
+
+(ROOT
+  (PRN
+    (S
+      (NP (DT the) (NN tomato) (NN bisque)
+        (CC and)
+        (NN chicken) (NN chili))
+      (VP (VBP are)
+        (ADJP (RB especially) (JJ good))))
+    (-RRB- -RRB-)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS soups))
+    (VP (VBP lack)
+      (NP
+        (NP (DT the) (NN consistency)
+          (CC and)
+          (NNS standards))
+        (PP (IN of)
+          (NP (NNP Metro) (NN cafe)))))))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN tomato) (NN soup))
+      (VP (VBD was) (RB not)
+        (NP (PRP$ your) (JJ average)
+          (NP (NNP Campbell) (POS 's))
+          (JJ canned) (NN variety))))
+    (: ...)
+    (S
+      (NP (PRP it))
+      (VP (VBD was)
+        (VP
+          (VP
+            (ADJP (JJ chunky)
+              (CC and)
+              (JJ full))
+            (PP (IN of)
+              (NP (NN garden) (JJ fresh) (NNS tomatoes))))
+          (CC and)
+          (VP (VBN paired)
+            (ADVP (RB perfectly))
+            (PP (IN with)
+              (NP (DT the) (JJ delectable) (JJ grilled) (NN cheese)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ my) (NN spring) (NNS rolls))
+    (VP (VBD were)
+      (ADJP (JJ good)))))
+
+(ROOT
+  (S
+    (NP (JJ singapore) (NNS slings))
+    (VP (VBD were)
+      (ADJP (JJ great)))))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ small) (NNS plates))
+    (VP (VBD were)
+      (ADJP (RB very) (JJ good)))))
+
+(ROOT
+  (S
+    (NP (NNS dates))
+    (VP (VBP are)
+      (ADJP (JJ to-die-for)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN lobster))
+    (VP (VBD was)
+      (ADJP (JJ exceptional)))))
+
+(ROOT
+  (S
+    (NP (NNP Santarpio) (POS 's))
+    (VP (VBZ has)
+      (NP
+        (NP (JJ delicious) (NN sauce))
+        (, ,)
+        (NP (JJR thinner) (NN crust))
+        (, ,)
+        (NP (JJ flavorful) (NNS cheeses))
+        (, ,)
+        (CC and)
+        (NP (JJ perfect) (NNS toppings))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP
+        (NP (PRP$ my) (NN boyfriend) (POS 's))
+        (NN tomato) (NN soup))
+      (PP (IN with)
+        (NP (JJ grilled) (NN cheese))))
+    (VP (VBD was) (RB n't)
+      (ADJP (JJ unusual)))))
+
+(ROOT
+  (S
+    (NP (DT the) (JJ chile) (NN dusting))
+    (VP (VBD added)
+      (NP (DT a) (JJ unique) (NN flavor)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN tomato) (NN bisque) (NN soup))
+    (VP (VBD was)
+      (NP
+        (NP (NN perfection))
+        (PP (IN on)
+          (NP (DT a) (NN standard)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP Soup))
+    (VP (VBD was)
+      (ADJP (JJ okay)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN beer)
+        (CC and)
+        (NN wine) (NN selection))
+      (ADVP (JJ overall)))
+    (VP (VBZ is)
+      (ADJP (RB pretty) (JJ extensive)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN chocolate) (NN crema))
+    (VP (VBD was)
+      (ADJP (JJ amazing)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN chicken))
+    (VP (VBD was)
+      (ADJP (JJ juicy)
+        (CC and)
+        (JJ flavorful)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ big) (NN winner))
+      (PP (IN of)
+        (NP (PDT all) (DT the) (NNS appetizers))))
+    (VP (VBD was)
+      (NP (DT the) (NNP Foie) (NNP Gras)
+        (CC and)
+        (NNP Doughnuts))
+      (SBAR (IN that)
+        (S
+          (NP (PRP$ my) (NN brother))
+          (VP (VBD ordered)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ Their) (JJ little) (NNS pizzas))
+    (VP (VBP are)
+      (ADJP (JJ tremendous)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN gnocchi))
+    (ADVP (PRP themselves))
+    (VP (VBD were)
+      (ADJP (JJ delish)))
+    (. !)))
+
+(ROOT
+  (S (CC But)
+    (NP (DT the) (NNS waiters))
+    (VP (VBP are)
+      (ADVP (RB always))
+      (PP (IN on)
+        (NP
+          (NP (NN top))
+          (PP (IN of)
+            (NP
+              (NP (NNS drinks))
+              (CC and)
+              (NP (JJ fresh) (NN salsa)
+                (CC and)
+                (JJ hot) (NNS chips)))))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (S
+      (NP (PRP they))
+      (ADVP (RB almost))
+      (VP (VBD did) (RB n't)
+        (VP (VB taste)
+          (PP (IN like)
+            (NP (JJ mashed) (NNS potatoes))))))))
+
+(ROOT
+  (S
+    (NP (DT This) (NN moussaka))
+    (VP (VBD was)
+      (VP (VBN made)
+        (ADVP (RB perfectly))))))
+
+(ROOT
+  (S
+    (NP (PRP$ Their) (NN sandwich) (NN list))
+    (VP (VBZ is)
+      (ADJP (JJ large)
+        (CC and)
+        (JJ inventive)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN menu))
+    (VP (VBZ is)
+      (ADJP (RB pretty) (JJ extensive)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NNS tajadas))
+    (VP (VBN made)
+      (PP (TO to)
+        (NP (NN perfection))))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN seaweed) (NN salad))
+    (VP (VBD was)
+      (NP
+        (NP (DT the) (JJS best))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBD had)
+              (ADVP (RB ever))
+              (VP (VBN tasted)))))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN sauce))
+    (VP
+      (VP (VBZ is)
+        (ADJP (JJ thick\/hearty)))
+      (CC and)
+      (VP (VBZ has)
+        (NP (DT a)
+          (ADJP (RB very) (JJ robust))
+          (NN flavor))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN haddock))
+    (VP (VBD was)
+      (ADJP (JJ tasty)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN mushroom) (NN risotto))
+    (VP (VBZ is)
+      (ADJP (JJ excellent)
+        (CC and)
+        (RB quite))
+      (S
+        (VP (VBG filling))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN almond))
+      (, ,)
+      (NP (NNS pignoli))
+      (, ,)
+      (CC and)
+      (NP
+        (NP (JJ plain) (NNS macaroons))
+        (NP (DT all) (NN taste))))
+    (ADJP (JJ similar))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ prime) (NN rib))
+      (CC and)
+      (NP (NN lamp)))
+    (VP (VBD were)
+      (ADJP (JJ fine)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN bun))
+    (VP (VBD was)
+      (ADJP (RB absolutely) (JJ amazing)))))
+
+(ROOT
+  (S
+    (NP (DT the) (JJ brioche) (NN au) (NN chocolat))
+    (VP (MD may)
+      (VP (VB be)
+        (NP (PRP$ my) (JJS least) (NN favorite))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Ju) (NNP Yim) (NNP Sin) (NNP Yau))
+    (VP (VBD was)
+      (ADJP (RB really) (JJ tasty)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN moqueca))
+    (VP (VBD was)
+      (NP
+        (ADJP (JJ delicious)
+          (CC and)
+          (JJ perfect))
+        (NN winter) (NN food))
+      (, ,)
+      (ADJP
+        (ADJP
+          (ADJP (JJ warm))
+          (, ,)
+          (ADJP (JJ filling))
+          (CC and)
+          (ADJP (JJ hearty)))
+        (CC but)
+        (RB not)
+        (ADJP (RB too) (JJ heavy))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS apples)
+      (CC and)
+      (NNS greens))
+    (VP (VBD were)
+      (ADJP (JJ fresh)
+        (CC and)
+        (JJ crisp)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS sandwiches))
+    (VP (VBP are)
+      (UCP
+        (ADJP (RB all) (JJ unique))
+        (CC and)
+        (VP (VBN come)
+          (PP (IN on)
+            (NP (JJ tasty) (NN bread))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NNP Hamachi))
+    (VP (VBD made)
+      (S
+        (NP (DT the) (NN trip))
+        (ADJP (JJ worthwhile))))))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ spicy) (NN tuna) (NN nigri))
+    (VP (VBD was)
+      (ADJP (JJ amazing)))))
+
+(ROOT
+  (S
+    (NP (NN sandwich))
+    (VP (VBD was)
+      (ADJP (RB incredibly) (JJ tasty)
+        (PP (IN as)
+          (ADVP (RB well)))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Crispy) (NNP Pad) (NNP Thai))
+    (VP (VBZ is)
+      (ADJP (RB bang-your-head-against-the-wall) (JJ good)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN wine) (NN list))
+    (VP (VBZ is)
+      (ADJP (JJ good)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Buddhist) (NNP Delight))
+    (VP (VBD was)
+      (ADJP (JJ oily)
+        (CC yet)
+        (JJ tasteless)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ braised) (NN tofu))
+    (VP (VBD was)
+      (ADJP (JJ awesome)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN burger))
+    (VP (VBD lacked)
+      (NP (DT any) (NN seasoning)
+        (CC or)
+        (NN flavor)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (VBG penang) (NN pad) (NNS thai))
+    (VP (VBD was)
+      (VP (VBD was)
+        (ADJP (NN nothing) (JJ extraordinary))))))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP 've)
+      (ADVP (RB never))
+      (VP (VBN had)
+        (NP
+          (NP (NNP tofu))
+          (ADJP (DT this) (JJ good)))))))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ fench) (NNS fries))
+    (VP (VBP are)
+      (ADJP (JJ delicious)))))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ raw) (NN bar) (NN sampler))
+    (VP (VBD was)
+      (ADJP (JJ amazing)
+        (CC and)
+        (JJ fresh)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN bread))
+    (VP (VBZ is)
+      (ADJP
+        (ADJP (JJ perfect))
+        (CC and)
+        (ADJP (RB always) (JJ fresh))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNP Organic) (NNP Tofu) (NNP Amrita))
+    (VP (VBD was)
+      (ADVP (RB spicy)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN miso) (NN soup))
+    (VP (VBZ has)
+      (NP
+        (NP (NNS tons))
+        (PP (IN of)
+          (NP (NN flavor)))))))
+
+(ROOT
+  (S
+    (NP (JJ roasted) (NNS nuts))
+    (VP (VBP are)
+      (NP (DT the) (JJ perfect) (NN bar) (NN food)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NNS burgers))
+    (VP (VBP are)
+      (ADJP (JJ tasty)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS eggs))
+    (VP (VBD were)
+      (ADJP (JJ fluffy)))))
+
+(ROOT
+  (S (CC And)
+    (NP (DT the) (NNS chips)
+      (CC and)
+      (NNS salsas))
+    (VP (VBP are)
+      (NP (JJ top) (NN tier)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP$ our) (NNS meals))
+    (VP (VBD were)
+      (UCP
+        (ADJP (JJ bland))
+        (CC and)
+        (VP (VBG lacking))))))
+
+(ROOT
+  (S
+    (NP (DT the) (NNP Crab) (NNP Eggs) (NNP Benedict))
+    (VP (VBD was)
+      (ADJP (JJ fantastic)))))
+
+(ROOT
+  (S
+    (S
+      (NP (DT The) (NN meat))
+      (VP (VBD was)
+        (ADJP (JJ dry))))
+    (CC and)
+    (S
+      (NP (DT the) (JJ sesame) (NN sauce))
+      (ADJP (JJ sweet)
+        (CC and)
+        (JJ one-dimensional)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN pizza))
+    (VP (VBD was)
+      (ADJP (JJ good)))))
+
+(ROOT
+  (S
+    (VP (VB -RRB-)
+      (SBAR
+        (S
+          (NP (DT The) (NNS fries))
+          (VP (VBD were)
+            (ADJP
+              (NP (DT a) (RB bit))
+              (JJ wimpy))))))))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ spicey) (NN tuna))
+    (VP (VBD was)
+      (ADJP (RB very) (JJ good)
+        (SBAR (IN as)
+          (S
+            (VP (VBD was)
+              (NP
+                (NP (DT the) (NN shrimp)
+                  (CC and)
+                  (NN avocado) (NN roll))
+                (CC and)
+                (NP (DT the) (NN shrimp) (NN tempura) (NN roll))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NNS oysters))
+    (VP (VBP are)
+      (ADJP (JJ tasteless)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN yogurt))
+    (VP (VBZ is)
+      (ADJP (RB pretty) (JJ good)))))
+
+(ROOT
+  (S
+    (NP (DT the) (JJ potato-stuffed) (NN bread))
+    (VP (VBZ is)
+      (ADJP (JJ excellent)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS clams)
+      (CC and)
+      (NN water) (NNS cress))
+    (VP (VBD were)
+      (NP
+        (NP (NNP AMAZING) (. .))
+        (SBAR
+          (S
+            (NP (DT the) (NNS dumplings) (NN didnt))
+            (VP (VBP have)
+              (S
+                (NP (JJ chive) (NNS tastes))
+                (VP (VB tho)
+                  (ADJP (RB still) (RB very) (JJ good)))))))))))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ raspberry) (NN seltzer))
+    (VP (VBZ is)
+      (ADJP (RB so) (JJ delicious)))))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NN smoke) (NN salmon))
+    (VP (VBD was)
+      (ADJP (JJ delicious)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (JJ Good) (JJ crusty) (NN kemmelweck))
+    (VP (VBP roll))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN bolognese))
+    (VP (VBD was)
+      (NP
+        (QP (DT a) (CD 7\/10)))
+      (PP
+        (PP (IN in)
+          (NP (PRP$ my) (JJ bolognese) (NN rating)))
+        (: ...)
+        (CC but)
+        (PP
+          (ADVP (RB certainly))
+          (ADJP (JJ delicious)))))
+    (. .)))
+
+(ROOT
+  (FRAG
+    (S
+      (VP (VBD rose)
+        (NP (NNS petals))))
+    (: ...)
+    (FRAG
+      (ADJP (JJ YUMMY) (. !))
+      (S
+        (VP (VBG !)
+          (NP
+            (NP (NNP Creme) (NNP Brulee))
+            (: -)
+            (NP
+              (NP (JJ Huge) (NN dish))
+              (PP (IN of)
+                (NP (DT this) (NN dessert)))))))
+      (. .))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN sushi))
+    (VP (VBZ is)
+      (NP
+        (NP (DT the) (JJS best))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP 've)
+              (ADVP (RB ever))
+              (VP (VBN had)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN pineapple) (NN martini))
+    (VP (VBD was)
+      (ADVP (RB also))
+      (ADJP (JJ fantastic)))))
+
+(ROOT
+  (SINV
+    (S
+      (ADVP (RB basically))
+      (NP (PRP it))
+      (VP (VBD was)
+        (NP
+          (NP (NN chicken) (, ,) (NN seafood)
+            (CC &)
+            (NN pork))
+          (: -)
+          (ADJP (JJ crazy) (JJ good))
+          (: ...))))
+    (VP (VBZ WORTH))
+    (NP (DT the) (NN trip))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP Crispy) (NNP Pad) (NNP Thai))
+      (, ,)
+      (NP (NNP Crispy) (NNP Duck))
+      (CC and)
+      (NP (RB newly) (VBN added) (NNP Mango) (NNP Fish)))
+    (VP (VBD were)
+      (NP
+        (NP (DT the) (NNS hits))
+        (PP (IN with)
+          (NP (PRP$ our) (NN table)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN bai) (NN cai))
+    (VP (VBD was)
+      (ADJP (JJ crisp)
+        (CC and)
+        (JJ garlicky)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN macaroni)
+      (CC and)
+      (NN cheese))
+    (VP (VBD was)
+      (ADJP (JJ dry)
+        (PP (IN with)
+          (NP (DT NO) (NN flavor)))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN frosting))
+    (VP (VBZ is)
+      (ADJP (RB tooooo) (JJ sweet)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN miso) (NN soup))
+    (VP (VBP wasnt)
+      (ADJP (JJ bad)))))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ last) (NN straw))
+    (VP (VBD was)
+      (VP (VBG finding)
+        (NP (DT a) (NN toothpick))
+        (PP (IN under)
+          (NP (PRP$ my) (JJ crispy) (JJ fried) (NNS noodles)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NNS sausages)
+      (CC and)
+      (NN lamb))
+    (VP (VBP are)
+      (ADJP (JJ incredible)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN fish) (NNS tacos))
+    (VP (VBD were)
+      (ADVP (RB nicely))
+      (VP (VBN battered)
+        (CC and)
+        (VBN fried)
+        (PP (IN with)
+          (NP
+            (NP (JJ tasty) (NNS sauces))
+            (PP (IN on)
+              (NP (NN top)))))))))
+
+(ROOT
+  (S
+    (NP (PRP It))
+    (VP (VBD was)
+      (NP
+        (NP (DT the) (JJS most) (NN tender) (VBG delicious) (NN chicken))
+        (SBAR
+          (S
+            (NP (PRP I))
+            (VP (VBP 've)
+              (VP (VBN had)
+                (PP (IN in)
+                  (NP (JJ many) (NNS moons)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NN granola) (NN bar))
+    (VP (VBD was)
+      (ADJP (RB really) (JJ good)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN chicken))
+    (VP (VBD was)
+      (ADJP (RB so) (JJ moist)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN pork)
+      (CC and)
+      (NN beef) (NNS plates))
+    (VP (VBP are)
+      (ADJP (RB pleasantly) (JJ tangy)))))
+
+(ROOT
+  (S
+    (PP (IN From)
+      (NP
+        (NP (DT the) (NNP Sticky) (NNP Buns))
+        (PP (TO to)
+          (NP (DT the) (JJ amazing) (NNP Roast) (NNP Beef) (NNP Sandwich)))))
+    (, ,)
+    (NP (PRP we))
+    (VP (VBP are)
+      (ADJP (JJ hooked)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN sauce))
+    (VP (VBD was) (RB not)
+      (ADJP (RB very) (JJ flavorful)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS octopus) (NN ceviche))
+    (VP (VBD was)
+      (ADJP (RB almost) (RB sickeningly) (JJ sweet)))))
+
+(ROOT
+  (S
+    (NP (PRP$ their) (NN signature) (NN crema) (NN chicken) (NN sandwich))
+    (VP (VBZ is)
+      (ADJP (JJ delicious)))))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ thai) (JJ iced) (NN tea))
+    (VP (VBZ is)
+      (ADJP (JJ yummy)))
+    (. .)))
+
+(ROOT
+  (S
+    (PP (IN like)
+      (NP (DT the) (NNP Tempura)))
+    (, ,)
+    (NP (PRP they))
+    (VP (VBD tossed)
+      (PP (IN in)
+        (NP (DT the) (JJ weirdest) (NNS vegetables)))
+      (ADVP (RB ever)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NNP cinnamon))
+    (VP (VBD was)
+      (VP (VBG overpowering)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN service))
+    (VP (VBD was)
+      (ADJP (JJ good)
+        (PP
+          (PP (IN during)
+            (NP (NN lunch)))
+          (CC and)
+          (PP (IN out)
+            (NP
+              (NP (NN pizza)
+                (CC and)
+                (NN chicken) (NN sald))
+              (SBAR
+                (S
+                  (VP (VBD was)
+                    (ADJP (JJ good))))))))))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN tomato))
+    (VP (VBZ is)
+      (ADJP (JJ adequate)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ lamb) (NN sausage) (NN special))
+      (PP (IN with)
+        (NP (NNS cherries))))
+    (VP (VBD was)
+      (NP (PRP$ my) (NN favorite)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (NNP Lynz) (POS 's))
+      (NN chocolate) (NN cake))
+    (VP (VBD was)
+      (ADJP (JJ OUTERWORLDLY)))))
+
+(ROOT
+  (S
+    (S
+      (NP
+        (NP (DT The) (NN avocado))
+        (CC and)
+        (NP (NN papaya)
+          (CC and)
+          (NN cheese)))
+      (VP (VBD were)
+        (ADJP (JJ cool))))
+    (, ,)
+    (NP (DT the) (NNP tofu))
+    (VP (VBD was)
+      (ADJP (JJ warm)
+        (CC and)
+        (JJ crispy))
+      (PRN (, ,)
+        (CC and)
+        (NP
+          (NP (DT the) (NN flavor))
+          (, ,)
+          (NP (NNP OH) (NNP MY) (NNP GOD)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBP love)
+      (S
+        (NP (NNS almonds)
+          (CC and)
+          (NN chicken))
+        (RB so)
+        (VP (VB bring)
+          (NP (PRP it))
+          (NP
+            (INTJ (UH !) (. !))
+            (NP (NNP Seafood) (NNP Masala))))))))
+
+(ROOT
+  (S
+    (NP (NN pitcher) (NN sangria))
+    (VP (VBD was)
+      (ADJP (RB pretty) (JJ good)))))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NN drink))
+    (ADVP (RB literally))
+    (VP (VBD tasted)
+      (PP (IN like)
+        (NP
+          (NP (VBN liquefied) (NN watermelon))
+          (PRN (: -) (RB not)
+            (NP (JJ overbearingly-jolly-rancher-faux) (NN watermelon))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN crust))
+    (VP (VBD was)
+      (ADJP
+        (NP (DT a) (RB little))
+        (RB too) (JJ floury)))))
+
+(ROOT
+  (S
+    (NP (NNS Fries))
+    (VP (VBD were)
+      (ADJP (JJ crispy)
+        (CC and)
+        (JJ golden)))
+    (. .)))
+
+(ROOT
+  (S
+    (S
+      (NP (PDT All) (DT the) (NNS flavors))
+      (VP (VBD were)
+        (ADJP (JJ genuine)
+          (CC and)
+          (JJ subtle))))
+    (CC and)
+    (S
+      (NP (DT the) (JJ veggie) (NNS dishes))
+      (VP (VBD were)
+        (ADJP (RB unexpectedly) (JJ flavorful)
+          (CC and)
+          (JJ rich))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN lobster) (NN ravioli))
+    (VP (VBZ is)
+      (ADJP (JJ amazing)))))
+
+(ROOT
+  (S
+    (NP (DT the) (NN pasta))
+    (VP (VBD was)
+      (VP (VBN overcooked)))))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP I))
+      (VP (VBD ordered)
+        (NP (DT a) (NNP Grilled) (NN cheese))
+        (PP (IN with)
+          (NP
+            (NP (NNP Bacon)
+              (CC &)
+              (NNP Caramelized) (NNP onions))
+            (CC and)
+            (NP (DT a) (NNP Chai) (NNP Tea) (NNP Latte))))))
+    (: --)
+    (S
+      (S
+        (NP (DT The) (NN drink))
+        (VP (VBD was)
+          (VP (VBN made)
+            (ADVP (RB quickly)))))
+      (CC and)
+      (S
+        (NP (PRP$ my) (NN sandwich))
+        (VP (VBD was)
+          (ADJP (JJ warm) (, ,) (JJ delicious) (, ,) (JJ crisp)
+            (CC and)
+            (JJ buttery)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (PRP I))
+    (VP (VBD had)
+      (NP
+        (NP (JJ fresh) (NN spring) (NNS rolls))
+        (PP (IN for)
+          (NP
+            (NP (DT an) (NN appetizer))
+            (SBAR
+              (WHNP (WDT which))
+              (S
+                (VP (VBD was)
+                  (ADJP (JJ good)))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS fries))
+    (VP (VBD were)
+      (ADJP (JJ forgettable)))))
+
+(ROOT
+  (S
+    (NP (DT the) (JJ local) (JJ grilled) (NN bluefish))
+    (VP (VBD was)
+      (ADJP (JJ fantastic)))))
+
+(ROOT
+  (S
+    (NP (PRP$ My) (NN friend))
+    (VP (VBD ordered)
+      (NP
+        (NP (DT the) (NNP Eggs) (NN benedict))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (VP (VBD was)
+              (ADVP (RB also))
+              (ADJP (RB pretty) (JJ good)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (NNP My) (NNP Mac)
+      (CC and)
+      (NNP Cheese))
+    (VP (VBD was)
+      (NP (NNP SO) (NNP GOOD)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP
+      (NP (PRP$ Their) (JJ mini) (NNS plates))
+      (PP (IN of)
+        (NP (NN food))))
+    (VP (VBD were)
+      (NP (JJ pure) (NN goodness)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NNS fries))
+    (VP (VBD were)
+      (ADJP (JJ good)))
+    (. !)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN ensanada) (NN fish) (NN taco))
+    (VP (VBZ is)
+      (ADJP (JJ exceptional)))))
+
+(ROOT
+  (S
+    (NP (DT the) (JJ english) (NN burger))
+    (VP (VBZ is)
+      (ADJP (JJ delicious))
+      (, ,)
+      (SBAR (IN as)
+        (S
+          (VP (VBZ is)
+            (NP
+              (NP (DT the) (NN spinach))
+              (CC &)
+              (NP (JJ artichoke) (NN dip)))))))
+    (. .)))
+
+(ROOT
+  (S
+    (VP (VBG being)
+      (NP
+        (NP (DT the) (JJ mussel) (NNS shooters))
+        (CC and)
+        (NP (DT those) (JJ amazing) (JJ fried) (NN risotto) (NNS balls))))))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ short) (NN rib))
+    (VP (VBD was)
+      (ADJP (RB pretty) (JJ tasty)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NN steak) (NNS tips))
+    (VP (VBP are)
+      (ADJP (JJ addictive)))))
+
+(ROOT
+  (S (CC But)
+    (NP (DT the) (JJ croque) (NN monsieur))
+    (VP (VBZ 's) (RB not)
+      (ADJP (JJ bad)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ white) (NN bean) (NN gratin))
+    (VP
+      (VP (VBD looked))
+      (CC and)
+      (VP (VBD tasted)
+        (ADJP (JJ reminiscent))
+        (PP (IN of)
+          (NP (NN mac)
+            (CC and)
+            (NN cheese)))))))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ Brazilian) (NN crab))
+    (VP (VBZ cakes)
+      (CC and)
+      (VBZ fried)
+      (NP
+        (NP (NNP Yuca))
+        (PP (IN with)
+          (NP
+            (NP (DT some) (NN kind))
+            (PP (IN of)
+              (NP
+                (NP (JJ yummy) (NN sauce))
+                (: --)
+                (ADJP (DT both) (JJ awesome))))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (JJ fried) (NN food))
+      (, ,)
+      (NP (DT the) (NNS vegetables))
+      (, ,)
+      (NP (DT the) (NNS meats))
+      (, ,)
+      (NP (NN everything)))
+    (VP (VBZ is)
+      (ADJP (JJ great)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJ Nice) (JJ grilled) (NN bread))
+      (CC and)
+      (NP (NN ricotta) (NN appetizer)))
+    (VP (VBD started)
+      (NP (DT the) (NN meal))
+      (PRT (RP off)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ sticky) (JJ sticky) (NN bun))
+    (VP (VBD was)
+      (ADVP (RB also))
+      (ADJP (JJ tasty)))))
+
+(ROOT
+  (S
+    (NP (DT the) (VBN mixed) (NNS greens))
+    (VP (VBP are)
+      (ADJP (JJ perfect)))))
+
+(ROOT
+  (S
+    (NP (NNP Sticky) (NNP bun))
+    (VP (VBD was)
+      (ADJP (JJ good)))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN lobster) (NN bisque))
+      (CC and)
+      (NP (PRP$ my) (NN husband)))
+    (VP (VBD got)
+      (NP
+        (NP (DT the) (NNS steamers))
+        (SBAR
+          (WHNP (WDT which))
+          (S
+            (NP (PRP he))
+            (VP (VBD loved))))))))
+
+(ROOT
+  (S
+    (NP (PRP I) (DT both))
+    (VP (VBD enjoyed)
+      (NP
+        (NP (DT the) (JJ very) (NN tender))
+        (CC and)
+        (NP (NNP flavorful) (NNP Turkey) (NNP Portobello) (NNP Meatloaf))))))
+
+(ROOT
+  (NP
+    (NP (DT the) (NNP Mac)
+      (CC &)
+      (NNP Cheese) (NN damn))
+    (NP (PRP it))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN mac)
+      (CC and)
+      (NN cheese))
+    (VP (VBD was) (RB n't)
+      (NP (DT the) (JJS best) (NN thing))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBP 've)
+            (ADVP (RB ever))
+            (VP (VBN tasted))))
+        (, ,)
+        (CC but)
+        (S
+          (ADJP (RB pretty) (JJ good))
+          (PP (IN for)
+            (NP (CD 14) (NNS bucks))))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (JJ organic) (JJ green)
+      (CC and)
+      (NN seaweed) (NNS salads))
+    (VP (VBP are)
+      (ADJP (JJ awesome)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN pizza))
+    (VP (VBD was)
+      (ADJP (RB extremely) (JJ dry)
+        (CC and)
+        (JJ tasteless))
+      (ADVP (RB unfortunately)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT the) (NNS greens))
+    (VP (VBD were)
+      (ADJP (RB too) (JJ bitter)
+        (CC and)
+        (JJ vinegary)))))
+
+(ROOT
+  (S
+    (NP (DT The) (NN paella) (NN portion))
+    (VP (VBD looked)
+      (ADJP (JJ small)))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN bread) (NN basket))
+    (VP (VBZ is)
+      (VP (VBN friggen)
+        (ADJP (JJ awesome))
+        (ADVP (RB too))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN beef))
+    (VP
+      (VP (VBD was)
+        (ADVP (RB chewy)))
+      (, ,)
+      (VP (VBP tender))
+      (CC and)
+      (VP (VBD had)
+        (NP (DT a) (JJ good) (NN flavor))))))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NNP Sangria))
+      (SBAR
+        (S
+          (NP (PRP I))
+          (VP (VBD ordered)))))
+    (VP (VBD was)
+      (ADJP (RB pretty) (JJ good)))))
+
+(ROOT
+  (S
+    (S
+      (NP (NNP Ive))
+      (VP (VBD tasted)
+        (SBAR
+          (S
+            (NP (DT the) (NN belgian))
+            (VP (VBZ waffles))))))
+    (, ,)
+    (CC and)
+    (S
+      (NP (PRP they))
+      (VP (VBP are)
+        (ADJP (JJ great) (RB too))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP (DT The) (NN chocolate) (NN bread) (NN pudding))
+    (VP (VBD was)
+      (ADJP
+        (ADJP (RB too) (JJ sweet))
+        (CC and)
+        (ADJP (RB super) (JJ soggy))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (JJS Most))
+      (PP (IN of)
+        (NP (PRP$ my) (NN sushi))))
+    (VP (VBD was)
+      (ADJP (JJ good)
+        (PP (TO to)
+          (ADJP (RB very) (JJ good)))))))
+
+(ROOT
+  (S
+    (NP (PRP They))
+    (VP (VBD were)
+      (ADJP (JJ generous)
+        (PP (IN with)
+          (NP (DT the) (NN shrimp)
+            (CC and)
+            (NN fish) (NNS chunks)))))
+    (. .)))
+
+(ROOT
+  (S
+    (NP
+      (NP (DT the) (NN dish))
+      (SBAR
+        (S
+          (NP (PRP$ my) (NN gf))
+          (VP (VBD ordered)))))
+    (VP (VBD was)
+      (ADJP (JJ amazing)))))
+
+(ROOT
+  (S
+    (S
+      (NP (PRP They))
+      (VP (VBP serve)
+        (NP
+          (NP (NN comfort) (NN food))
+          (PP
+            (PP (IN with)
+              (NP (DT a) (NN twist)))
+            (: -)
+            (PP (IN like)
+              (NP (DT the) (JJ amazing) (NN fontina) (NN stuff)))))
+        (FRAG
+          (NP (NN tater) (NNS tots))
+          (: -)
+          (FRAG
+            (ADJP (JJ delicious) (. !))
+            (. !))
+          (. !))))
+    (CC And)
+    (S
+      (NP (DT the) (NNS burgers))
+      (VP (VBP are)
+        (ADJP (NN nothing) (JJ short)
+          (PP (IN of)
+            (ADJP (JJ awesome))))))
+    (. .)))
+
