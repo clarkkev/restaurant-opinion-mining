@@ -5,7 +5,7 @@ import random
 TEST_SIZE = 150
 VALIDATION_SIZE = 150
 
-class PennNode:
+class Node:
   current_nid = 0
   phrase_p = re.compile('[(](\S+)\s*(.*)')
   preterm_p = re.compile('[(]([^()\s]*)\s([^()\s]*)[)]')
@@ -14,12 +14,15 @@ class PennNode:
     self.parent = parent
     self.children = []
     self.depth = depth
+    self.height = 0
     self.terminal = None
-    self.nid = PennNode.current_nid
-    PennNode.current_nid += 1
+    self.nid = Node.current_nid
+    self.siblings = []
+    self.parent_phrases = set()
+    Node.current_nid += 1
 
-    if PennNode.preterm_p.match(contents):
-      preterm_matches = PennNode.preterm_p.findall(contents)
+    if Node.preterm_p.match(contents):
+      preterm_matches = Node.preterm_p.findall(contents)
       if len(preterm_matches) == 1:
         preterm_match = preterm_matches[0]
         self.phrase = preterm_match[0]
@@ -29,16 +32,47 @@ class PennNode:
         self.phrase = preterm_match[0]
         self.terminal = preterm_match[1]
         for phrase, terminal in preterm_matches[1:]:
-          PennNode(depth, "(" + phrase + " " + terminal + ")", parent)
+          Node(depth, "(" + phrase + " " + terminal + ")", parent)
 
     else:
-      phrase_match = PennNode.phrase_p.match(contents)
+      phrase_match = Node.phrase_p.match(contents)
       self.phrase = phrase_match.group(1)
-      for preterm_match in PennNode.preterm_p.finditer(phrase_match.group(2)):
-        PennNode(depth + 1, preterm_match.group(0), self)
+      for preterm_match in Node.preterm_p.finditer(phrase_match.group(2)):
+        Node(depth + 1, preterm_match.group(0), self)
 
     if parent:
       parent.children.append(self)
+
+  def set_features(self):
+    self.siblings = []
+    for n in self.children:
+      n.set_features()
+    if self.parent:
+      for n in self.parent.children:
+        self.siblings.append(n)
+    
+    self.parent_phrases = set()
+    n = self.parent
+    while n:
+      self.parent_phrases.add(n.phrase)
+      n = n.parent
+
+  def set_height(self):
+    if self.terminal:
+      self.height = 0
+    else:
+      self.height = 1 + max(child.set_height() for child in self.children)
+    return self.height
+
+  def set_span(self, i=[0]):
+    if self.terminal:
+      self.span = [i[0]]
+      i[0] += 1
+    else:
+      self.span = []
+      for child in self.children:
+        self.span += child.set_span(i)
+    return self.span
 
   def display(self):
     display_str = ' ' * self.depth + '(' + self.phrase
@@ -70,11 +104,11 @@ def buildTree(lines):
 
     line = line.strip()
     if depth == 0:
-      root = n = PennNode(0, line)
+      root = n = Node(0, line)
     else:
       while depth/2 <= n.depth:
         n = n.parent
-      n = PennNode(depth/2, line, n)
+      n = Node(depth/2, line, n)
   return root
 
 def terminals_from_tree(n):
@@ -86,13 +120,14 @@ def terminals_from_tree(n):
   return tokens
 
 class Example:
-  def __init__(self, phrase, tagged, tree, labels):
+  def __init__(self, phrase, tagged, tree, labels, terminals):
     self.phrase = phrase
     self.tagged = tagged
     self.words, self.tags = zip(*self.tagged)
     self.tree = tree
     self.labels = labels
     self.length = len(labels)
+    self.terminals = terminals
 
 class Loader:
   def __init__(self):
@@ -130,27 +165,21 @@ class Loader:
     self.tagset = set()
     self.examples = []
     for i in range(len(phrases)):
+      trees[i].set_features()
+      trees[i].set_span([0])
+      trees[i].set_height()
       example = Example(phrases[i], tagged_phrases[i],
-                        trees[i], labels[i])
-      self.examples.append(example)
+                        trees[i], labels[i], terminals_from_tree(trees[i]))
       
+      #print trees[i].span, example.length
+      self.examples.append(example)
       self.tagset |= set(example.tags)
       
-      #terminals = terminals_from_tree(example.tree)
-      #for i, label in enumerate(example.labels):
-      #  terminals[i].terminal += "_" + str(label)
-
-      #e = self.examples[i]
-      #print e.phrase
-      #print e.tree.tokens
-      #e.tree.display()
-      #print
     self.num_tags = len(self.tagset)
-
-    
     self.examples = [e for e in self.examples if len(e.phrase.split(" ")) == len(e.tagged) and          
                                                  len(e.tagged) == len(terminals_from_tree(e.tree))]
-    print "LOADED: " + str(len(self.examples)) +  " PHRASES"
+    print "LOADED: " + str(len(self.examples)) +  " PHRASES,"
+    print str(sum(example.length for example in self.examples)) + " WORDS"
 
     new_indicies = range(len(self.examples))
     random.seed(1)
@@ -165,4 +194,5 @@ class Loader:
     self.validation = self.examples[num_train:num_train + VALIDATION_SIZE]
     self.test = self.examples[num_train + VALIDATION_SIZE:self.num_examples]
 
-l = Loader()
+if __name__ == '__main__':
+  l = Loader()

@@ -3,13 +3,11 @@ from math import log
 from itertools import product
 from loader import Example
 
-from nltk.corpus import wordnet as wn
-
 from sklearn.feature_extraction import DictVectorizer
 from sklearn.linear_model import LogisticRegression
 
 class MarkovModel:
-  def __init__(self, num_tags, label_depth=2, tag_depth=1):
+  def __init__(self, num_tags, label_depth, tag_depth):
     self.num_tags = num_tags
     self.label_depth = label_depth
     self.tag_depth = tag_depth
@@ -40,15 +38,15 @@ class MarkovModel:
       print row
 
 class MEMMPredictor(MarkovModel):
-  def __init__(self, num_tags, label_depth=3, tag_depth=1):
+  def __init__(self, num_tags, label_depth, tag_depth, deleted_features=[], tree_features=False):
     MarkovModel.__init__(self, num_tags, label_depth, tag_depth)
     self.vectorizer = DictVectorizer(sparse=False)
     self.clf = LogisticRegression()
+    self.tree_features = tree_features
+    self.deleted_features = deleted_features
   
   def get_log_scores(self, example, i, previous_labels):
     features = self.get_features(example, i, previous_labels)
-    #print self.clf.predict_log_proba(self.vectorizer.transform([features]))
-    #print self.clf.predict_log_proba(self.vectorizer.transform([features]))[0]
     return self.clf.predict_log_proba(self.vectorizer.transform([features]))[0]
 
   def get_features(self, example, i, previous_labels):
@@ -57,34 +55,45 @@ class MEMMPredictor(MarkovModel):
     features = {}
     for j in range(self.label_depth):
       if j >= len(previous_labels):
-        features['PREV_LABEL_' + str(j) + "START"] = 1
+        features['PREV-LABEL_' + str(j) + "START"] = 1
       else:
-        features['PREV_LABEL_' + str(j) + str(previous_labels[j])] = 1
+        features['PREV-LABEL_' + str(j) + str(previous_labels[j])] = 1
     for j in range(self.tag_depth):
       if j >= len(previous_tags):
-        features['PREV_TAG_' + str(j) + "START"] = 1
+        features['PREV-TAG_' + str(j) + "START"] = 1
       else:
-        features['PREV_TAG_' + str(j) + previous_tags[j]] = 1
+        features['PREV-TAG_' + str(j) + previous_tags[j]] = 1
     if i < example.length - 1:
-      features['NEXT_TAG_' + example.tags[i + 1]] = 1
+      features['NEXT-TAG_' + example.tags[i + 1]] = 1
 
     word = example.words[i].lower()
     tag = example.tags[i]
-    '''wn_pos = None
-    if 'NN' in tag: wn_pos = 'n'
-    elif 'JJ' in tag: wn_pos = 'a'
-    elif 'VB' in tag: wn_pos = 'v'
-    elif 'RB' in tag: wn_pos = 'r'
-    if wn_pos: 
-      morph = wn.morphy(word, wn_pos)
-      #if morph: word = morph'''
 
     features['WORD_' + word] = 1
     features['TAG_' + tag] = 1
     
-    features['LENGTH'] = example.length
-    features['INDEX'] = i
+    features['PHRASE-LENGTH'] = example.length
+    #features['INDEX'] = i
     
+    if self.tree_features:
+      n = example.terminals[i]
+      if n.parent:
+        features['PARENT_' + n.parent.phrase] = 1
+        #if n.parent.parent:
+        #  features['GRAND_PARENT_' + n.parent.parent.phrase] = 1
+      #for s in n.siblings:
+      #  features['SIBLING_' + s.phrase] = features.get('SIBLING_' + s.phrase, 0) + 1
+      
+      features['ANCESTOR_NP'] = 'NP' in n.parent_phrases
+      #features['ANCESTOR_VP'] = 'VP' in n.parent_phrases
+      #features['ANCESTOR_ADJP'] = 'ADJP' in n.parent_phrases
+      features['ANCESTOR_ADVP'] = 'ADVP' in n.parent_phrases
+
+    for f in features.keys()[:]:
+      for d in self.deleted_features:
+        if d in f:
+          del features[f]
+
     return features
   
   def train(self, examples):
@@ -113,7 +122,6 @@ class HMMPredictor(MarkovModel):
       if depth <= label_depth: depth_size *= (3 ** depth)
       if depth <= tag_depth: depth_size *= (num_tags ** depth)
       self.transition_size += depth_size
-    print self.transition_size
 
   def get_log_scores(self, example, i, previous_labels):
     transition_smoothing = 0.0001
